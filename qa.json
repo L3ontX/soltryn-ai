@@ -1,0 +1,5006 @@
+{
+  "category_1": {
+    "questions": [
+      "hello",
+      "hi",
+      "hey",
+      "howdy"
+    ],
+    "response": [
+      "Hello there! How can I help you?",
+      "Hi! What's up?",
+      "Hey! Need any assistance?"
+    ]
+  },
+  "category_2": {
+    "questions": [
+      "what is the weather",
+      "how is the weather",
+      "weather today",
+      "is it raining"
+    ],
+    "response": [
+      "Looks sunny from here!",
+      "It might rain later. Keep an umbrella handy!"
+    ]
+  },
+  "category_3": {
+    "questions": [
+      "what time is it",
+      "current time",
+      "tell me the time",
+      "time please"
+    ],
+    "response": [
+      "It's about mid-afternoon!",
+      "Check your local clock, but I'd guess it's around 3 PM."
+    ]
+  },
+  "category_4": {
+    "questions": [
+      "what's the date",
+      "today's date",
+      "date please",
+      "current date"
+    ],
+    "response": [
+      "Today is January 15, 2025!",
+      "It’s around mid-January—any special plans?"
+    ]
+  },
+  "category_5": {
+    "questions": [
+      "what is 5 plus 3",
+      "5 + 3",
+      "calculate 5 plus 3",
+      "math 5 plus 3"
+    ],
+    "response": [
+      "5 + 3 = 8!",
+      "Sure, it's 8. Easy math!"
+    ]
+  },
+  "category_6": {
+    "questions": [
+      "tell me a joke",
+      "make me laugh",
+      "funny joke"
+    ],
+    "response": [
+      "I tried to catch fog yesterday... Mist!",
+      "Why don't programmers like nature? It has too many bugs!"
+    ]
+  },
+  "category_7": {
+    "questions": [
+      "goodbye",
+      "farewell",
+      "see you later",
+      "bye"
+    ],
+    "response": [
+      "Goodbye! Have a great day!",
+      "See you next time!"
+    ]
+  },
+  "category_8": {
+    "questions": [
+      "what is your name",
+      "who are you",
+      "tell me about yourself"
+    ],
+    "response": [
+      "I’m Soltryn, your friendly AI assistant! How can I help today?",
+      "Hello! I'm Soltryn. Always happy to assist."
+    ]
+  },
+  "category_9": {
+    "questions": [
+      "help",
+      "assist",
+      "need assistance",
+      "please help"
+    ],
+    "response": [
+      "Sure! What do you need?",
+      "Happy to help. Please elaborate on what you'd like."
+    ]
+  },
+  "category_10": {
+    "questions": [
+      "what can you do",
+      "commands",
+      "abilities",
+      "skill set"
+    ],
+    "response": [
+      "I can answer questions about weather, time, general knowledge, jokes, and more.",
+      "I’m pretty versatile—ask me anything!"
+    ]
+  },
+
+  "category_11": {
+    "questions": [
+      "can you recommend music",
+      "music suggestion",
+      "favorite song"
+    ],
+    "response": [
+      "I love a variety of music. What genre are you into?",
+      "Try exploring new artists on Spotify!"
+    ]
+  },
+  "category_12": {
+    "questions": [
+      "suggest a movie",
+      "favorite film",
+      "movie recommendation",
+      "what should I watch"
+    ],
+    "response": [
+      "How about a classic like 'The Matrix'?",
+      "Try a comedy if you need a laugh. 'Superbad' is hilarious!"
+    ]
+  },
+  "category_13": {
+    "questions": [
+      "sports update",
+      "who won the match",
+      "sports news"
+    ],
+    "response": [
+      "Let me check the latest sports scores!",
+      "Sports updates vary by region—any specific team in mind?"
+    ]
+  },
+  "category_14": {
+    "questions": [
+      "what should I eat",
+      "food suggestion",
+      "dinner idea"
+    ],
+    "response": [
+      "How about tacos tonight?",
+      "A hearty salad could be nice and healthy!"
+    ]
+  },
+  "category_15": {
+    "questions": [
+      "where should I travel",
+      "travel tips",
+      "vacation idea"
+    ],
+    "response": [
+      "Consider going to Bali for amazing beaches!",
+      "If you love history, check out Rome."
+    ]
+  },
+  "category_16": {
+    "questions": [
+      "what's in fashion",
+      "clothing trend",
+      "style tips"
+    ],
+    "response": [
+      "Classic jeans never go out of style.",
+      "Layering is big right now. Scarves, jackets, etc.!"
+    ]
+  },
+  "category_17": {
+    "questions": [
+      "improve sales",
+      "sales tips",
+      "how to sell better"
+    ],
+    "response": [
+      "Focus on the customer's needs first!",
+      "Build trust and highlight product benefits."
+    ]
+  },
+  "category_18": {
+    "questions": [
+      "public speaking tips",
+      "speech advice",
+      "overcome stage fright"
+    ],
+    "response": [
+      "Practice with friends or record yourself!",
+      "Focus on slow, clear speech and maintaining eye contact."
+    ]
+  },
+  "category_19": {
+    "questions": [
+      "teamwork",
+      "collaboration tips",
+      "working together"
+    ],
+    "response": [
+      "Communication is key: keep everyone in the loop.",
+      "Identify each person's strengths and delegate accordingly."
+    ]
+  },
+  "category_20": {
+    "questions": [
+      "time management",
+      "how to manage time",
+      "productivity tips"
+    ],
+    "response": [
+      "Try the Pomodoro Technique (25 min work, 5 min break).",
+      "Set clear priorities each morning!"
+    ]
+  },
+
+  "category_21": {
+    "questions": [
+      "negotiation skills",
+      "how to negotiate",
+      "reach agreement"
+    ],
+    "response": [
+      "Aim for win-win outcomes!",
+      "Understand the other party's interests."
+    ]
+  },
+  "category_22": {
+    "questions": [
+      "problem solving",
+      "critical thinking",
+      "how to solve complex problems"
+    ],
+    "response": [
+      "Break the problem into smaller parts.",
+      "Use brainstorming and evaluate all solutions!"
+    ]
+  },
+  "category_23": {
+    "questions": [
+      "conflict resolution",
+      "resolve disagreement",
+      "handle conflicts"
+    ],
+    "response": [
+      "Open communication often helps. Listen actively!",
+      "Focus on the problem, not the person."
+    ]
+  },
+  "category_24": {
+    "questions": [
+      "customer service tips",
+      "customer satisfaction",
+      "handle complaints"
+    ],
+    "response": [
+      "Be patient, empathetic, and respond promptly.",
+      "Customers appreciate honesty and effort!"
+    ]
+  },
+  "category_25": {
+    "questions": [
+      "emotional intelligence",
+      "improve EQ",
+      "manage emotions"
+    ],
+    "response": [
+      "Reflect on your feelings, and practice empathy for others.",
+      "Self-awareness is the first step!"
+    ]
+  },
+
+  "category_26": {
+    "questions": [
+      "financial literacy",
+      "how to manage money",
+      "budgeting tips"
+    ],
+    "response": [
+      "Track your expenses and set saving goals.",
+      "Build an emergency fund first!"
+    ]
+  },
+  "category_27": {
+    "questions": [
+      "public relations",
+      "PR strategy",
+      "company image"
+    ],
+    "response": [
+      "Focus on clear communication with media and the public!",
+      "Maintain credibility and transparency."
+    ]
+  },
+  "category_28": {
+    "questions": [
+      "leadership skills",
+      "become a better leader",
+      "qualities of a leader"
+    ],
+    "response": [
+      "Lead by example. Show empathy and vision.",
+      "Communicate clearly and empower your team!"
+    ]
+  },
+  "category_29": {
+    "questions": [
+      "innovation",
+      "foster creativity",
+      "new ideas"
+    ],
+    "response": [
+      "Experiment, take risks, and learn from failures.",
+      "Encourage brainstorming sessions!"
+    ]
+  },
+  "category_30": {
+    "questions": [
+      "decision making",
+      "how to decide",
+      "better choices"
+    ],
+    "response": [
+      "Weigh pros and cons, consider facts & intuition.",
+      "Identify possible outcomes first!"
+    ]
+  },
+
+  "category_31": {
+    "questions": [
+      "motivation",
+      "stay motivated",
+      "how to focus"
+    ],
+    "response": [
+      "Set clear goals and celebrate small wins!",
+      "Find your deeper 'why' to keep going."
+    ]
+  },
+  "category_32": {
+    "questions": [
+      "networking",
+      "build connections",
+      "professional relationships"
+    ],
+    "response": [
+      "Attend events, join online communities, offer help first.",
+      "Follow up and keep in touch with your contacts!"
+    ]
+  },
+  "category_33": {
+    "questions": [
+      "assertiveness",
+      "being assertive",
+      "express opinions"
+    ],
+    "response": [
+      "Speak confidently, respect others' views.",
+      "Maintain clear boundaries politely."
+    ]
+  },
+  "category_34": {
+    "questions": [
+      "creativity",
+      "be creative",
+      "out of the box thinking"
+    ],
+    "response": [
+      "Try new experiences, brainstorm freely!",
+      "Embrace mistakes as learning opportunities."
+    ]
+  },
+  "category_35": {
+    "questions": [
+      "entrepreneurship",
+      "start a business",
+      "small business tips"
+    ],
+    "response": [
+      "Identify a need, create a strong plan, test quickly!",
+      "Stay flexible and adjust to market feedback."
+    ]
+  },
+
+  "category_36": {
+    "questions": [
+      "music production",
+      "create music",
+      "recording songs"
+    ],
+    "response": [
+      "Start with basic software like FL Studio or GarageBand.",
+      "Focus on simple beats and learn mixing gradually!"
+    ]
+  },
+  "category_37": {
+    "questions": [
+      "photography tips",
+      "camera advice",
+      "take better photos"
+    ],
+    "response": [
+      "Lighting is key. Try using natural light first!",
+      "Experiment with angles and composition."
+    ]
+  },
+  "category_38": {
+    "questions": [
+      "coding",
+      "learn programming",
+      "where to start coding"
+    ],
+    "response": [
+      "Python is great for beginners. Also consider JavaScript for web dev!",
+      "Practice small projects to build confidence."
+    ]
+  },
+  "category_39": {
+    "questions": [
+      "web design",
+      "html css basics",
+      "responsive design"
+    ],
+    "response": [
+      "Use media queries for responsiveness!",
+      "Focus on readability and user-friendly layouts."
+    ]
+  },
+  "category_40": {
+    "questions": [
+      "graphic design",
+      "photoshop tips",
+      "illustration"
+    ],
+    "response": [
+      "Master layers, brushes, and typography!",
+      "Try Adobe Illustrator or Procreate if you like vector art."
+    ]
+  },
+
+  "category_41": {
+    "questions": [
+      "customer service_2",
+      "customer happiness",
+      "customer support"
+    ],
+    "response": [
+      "Focus on empathy and quick problem-solving!",
+      "Maintain a friendly and professional tone."
+    ]
+  },
+  "category_42": {
+    "questions": [
+      "public relations_2",
+      "media coverage",
+      "press releases"
+    ],
+    "response": [
+      "Build relationships with journalists, craft clear press releases.",
+      "Honesty and transparency help build trust!"
+    ]
+  },
+  "category_43": {
+    "questions": [
+      "leadership_2",
+      "managing a team",
+      "inspire employees"
+    ],
+    "response": [
+      "Set clear goals and acknowledge good work!",
+      "Be open to feedback and lead by example."
+    ]
+  },
+  "category_44": {
+    "questions": [
+      "movies_3",
+      "film suggestions",
+      "what to watch"
+    ],
+    "response": [
+      "Try a new genre you’ve never explored!",
+      "Look up IMDb for top-rated films."
+    ]
+  },
+  "category_45": {
+    "questions": [
+      "music_3",
+      "favorite bands",
+      "music streaming"
+    ],
+    "response": [
+      "Explore playlists on Spotify or Apple Music to discover new bands!",
+      "Try going to local gigs if possible, you might find hidden gems."
+    ]
+  },
+
+  "category_46": {
+    "questions": [
+      "food_3",
+      "diet tips",
+      "healthy eating"
+    ],
+    "response": [
+      "Focus on whole foods like vegetables, fruits, and lean proteins!",
+      "Meal-prep can save time and ensure balanced nutrition."
+    ]
+  },
+  "category_47": {
+    "questions": [
+      "travel_3",
+      "road trip ideas",
+      "hidden travel spots"
+    ],
+    "response": [
+      "Consider exploring national parks for scenic adventures!",
+      "Research local cultures to get the most authentic experiences."
+    ]
+  },
+  "category_48": {
+    "questions": [
+      "fashion_2",
+      "wardrobe essentials",
+      "dress to impress"
+    ],
+    "response": [
+      "A well-fitted blazer or jacket is timeless!",
+      "Try neutral colors for versatility."
+    ]
+  },
+  "category_49": {
+    "questions": [
+      "gaming_2",
+      "indie games",
+      "multiplayer recommendations"
+    ],
+    "response": [
+      "Check out indie titles on Steam, there are gems like 'Hades' or 'Stardew Valley.'",
+      "For multiplayer, join communities on Discord!"
+    ]
+  },
+  "category_50": {
+    "questions": [
+      "comics",
+      "graphic novels",
+      "superhero stories"
+    ],
+    "response": [
+      "Marvel and DC have iconic superhero arcs. Try 'Watchmen' for a classic!",
+      "Indie comics can be great too, like 'Saga' or 'The Walking Dead' series."
+    ]
+  }
+,
+"category_51": {
+  "questions": [
+    "how do I start investing",
+    "best investment tips",
+    "where to invest money"
+  ],
+  "response": [
+    "Start small, learn about different asset classes, and diversify.",
+    "Research thoroughly or consult a financial advisor to minimize risk."
+  ]
+},
+"category_52": {
+  "questions": [
+    "how to get a promotion",
+    "improve my career",
+    "advance in my job"
+  ],
+  "response": [
+    "Show consistent results, take initiative, and communicate your goals to management.",
+    "Seek additional responsibilities and demonstrate leadership."
+  ]
+},
+"category_53": {
+  "questions": [
+    "home workout",
+    "exercise at home",
+    "fitness routine indoors"
+  ],
+  "response": [
+    "Try bodyweight exercises like push-ups, squats, and planks!",
+    "Schedule regular workout times and mix cardio with strength training."
+  ]
+},
+"category_54": {
+  "questions": [
+    "home cooking",
+    "simple recipes",
+    "how to cook easily"
+  ],
+  "response": [
+    "Start with one-pot or sheet-pan meals for convenience!",
+    "Look up step-by-step video recipes to learn quickly."
+  ]
+},
+"category_55": {
+  "questions": [
+    "improve english",
+    "learn a new language",
+    "language tips"
+  ],
+  "response": [
+    "Practice consistently, watch shows with subtitles, and use language apps!",
+    "Find a language exchange partner to practice speaking."
+  ]
+},
+"category_56": {
+  "questions": [
+    "writing skills",
+    "improve writing",
+    "tips for better writing"
+  ],
+  "response": [
+    "Read widely, practice daily, and proofread your work thoroughly.",
+    "Focus on clarity, organization, and concise phrasing."
+  ]
+},
+"category_57": {
+  "questions": [
+    "how to budget",
+    "money management",
+    "financial planning"
+  ],
+  "response": [
+    "List all expenses and income, then track everything. Adjust as needed!",
+    "Use budgeting tools or apps for clarity and consistency."
+  ]
+},
+"category_58": {
+  "questions": [
+    "plan a wedding",
+    "wedding advice",
+    "wedding organizer tips"
+  ],
+  "response": [
+    "Set a budget, pick a venue early, and consider hiring a planner if possible!",
+    "Involve family or friends for help and personalization."
+  ]
+},
+"category_59": {
+  "questions": [
+    "design a resume",
+    "resume tips",
+    "cv improvement"
+  ],
+  "response": [
+    "Keep it clear, concise, and highlight key accomplishments!",
+    "Tailor it to the position you’re applying for."
+  ]
+},
+"category_60": {
+  "questions": [
+    "baking tips",
+    "how to bake",
+    "easy baking"
+  ],
+  "response": [
+    "Measure ingredients accurately and preheat the oven properly!",
+    "Follow recipes exactly—baking is quite precise."
+  ]
+},
+
+"category_61": {
+  "questions": [
+    "how to draw",
+    "art tips",
+    "improve drawing skills"
+  ],
+  "response": [
+    "Practice basic shapes, shading, and perspective. Sketch daily!",
+    "Watch tutorials or take online art courses."
+  ]
+},
+"category_62": {
+  "questions": [
+    "cheap meals",
+    "budget cooking",
+    "affordable recipes"
+  ],
+  "response": [
+    "Beans, rice, and seasonal vegetables are cost-effective staples!",
+    "Meal planning prevents impulse buys and reduces waste."
+  ]
+},
+"category_63": {
+  "questions": [
+    "social anxiety",
+    "overcome shyness",
+    "be more confident socially"
+  ],
+  "response": [
+    "Gradually expose yourself to social settings and practice small talk!",
+    "Seek professional help or counseling if it’s severe."
+  ]
+},
+"category_64": {
+  "questions": [
+    "hiking tips",
+    "beginner hikes",
+    "outdoor trekking"
+  ],
+  "response": [
+    "Start with easy trails, wear proper footwear, and stay hydrated!",
+    "Check weather forecasts and carry a map or GPS."
+  ]
+},
+"category_65": {
+  "questions": [
+    "minimalism lifestyle",
+    "decluttering",
+    "simplify my life"
+  ],
+  "response": [
+    "Keep only things that add value. Donate or toss the rest!",
+    "Gradually reduce possessions to avoid overwhelm."
+  ]
+},
+"category_66": {
+  "questions": [
+    "surfing basics",
+    "how to surf",
+    "learn surfing"
+  ],
+  "response": [
+    "Start with small waves, learn to paddle and pop up on the board!",
+    "A good instructor can accelerate your learning curve."
+  ]
+},
+"category_67": {
+  "questions": [
+    "beer brewing",
+    "homebrew tips",
+    "make beer at home"
+  ],
+  "response": [
+    "Start with a beginner's kit, sanitize everything, and be patient!",
+    "Track temperature carefully for consistent fermentation."
+  ]
+},
+"category_68": {
+  "questions": [
+    "coffee brewing",
+    "best coffee methods",
+    "how to make good coffee"
+  ],
+  "response": [
+    "Try pour-over or French press for fuller flavor!",
+    "Use fresh beans and a proper grind size for best results."
+  ]
+},
+"category_69": {
+  "questions": [
+    "intermittent fasting",
+    "fasting benefits",
+    "how to start IF"
+  ],
+  "response": [
+    "Begin with a 16:8 schedule—16 hours fast, 8 hours eating window.",
+    "Stay hydrated and ease into it gradually!"
+  ]
+},
+"category_70": {
+  "questions": [
+    "home gardening",
+    "plant care",
+    "grow vegetables"
+  ],
+  "response": [
+    "Start with easy herbs like basil or mint!",
+    "Ensure proper sunlight and watering schedule."
+  ]
+},
+
+"category_71": {
+  "questions": [
+    "origami",
+    "paper folding",
+    "learn origami"
+  ],
+  "response": [
+    "Begin with simple folds like the crane or boat!",
+    "Use square origami paper and follow step-by-step guides."
+  ]
+},
+"category_72": {
+  "questions": [
+    "language translator tips",
+    "become translator",
+    "improve translation skills"
+  ],
+  "response": [
+    "Master at least two languages deeply!",
+    "Practice by translating real documents or texts."
+  ]
+},
+"category_73": {
+  "questions": [
+    "stand-up comedy",
+    "how to be funny on stage",
+    "writing jokes"
+  ],
+  "response": [
+    "Observe everyday situations for humor!",
+    "Perform at open mics to get feedback and build confidence."
+  ]
+},
+"category_74": {
+  "questions": [
+    "woodworking",
+    "beginner woodworking",
+    "DIY wood projects"
+  ],
+  "response": [
+    "Start with simple projects, learn basic tool safety!",
+    "Measure twice, cut once is a classic rule!"
+  ]
+},
+"category_75": {
+  "questions": [
+    "car maintenance",
+    "basic car care",
+    "oil change"
+  ],
+  "response": [
+    "Follow your car’s manual for scheduled maintenance.",
+    "Check oil, tires, and fluid levels regularly!"
+  ]
+},
+
+"category_76": {
+  "questions": [
+    "houseplants",
+    "indoor gardening",
+    "plants at home"
+  ],
+  "response": [
+    "Start with hardy plants like snake plants or pothos!",
+    "Watch out for overwatering. Let soil partly dry out."
+  ]
+},
+"category_77": {
+  "questions": [
+    "kickboxing basics",
+    "martial arts start",
+    "learn self-defense"
+  ],
+  "response": [
+    "Focus on stance, guard, and basic punches/kicks first!",
+    "Join a class or follow structured tutorials for safety."
+  ]
+},
+"category_78": {
+  "questions": [
+    "personal branding",
+    "promote myself",
+    "build online presence"
+  ],
+  "response": [
+    "Showcase your skills and personality consistently across platforms!",
+    "Network with peers and offer valuable insights to stand out."
+  ]
+},
+"category_79": {
+  "questions": [
+    "video editing",
+    "edit videos",
+    "post-production"
+  ],
+  "response": [
+    "Use software like Premiere Pro or Davinci Resolve. Practice with short clips!",
+    "Focus on smooth transitions and clear storytelling."
+  ]
+},
+"category_80": {
+  "questions": [
+    "knitting basics",
+    "how to knit",
+    "beginner knitting"
+  ],
+  "response": [
+    "Start with simple stitches like the knit stitch!",
+    "Use chunky yarn and larger needles for easier practice."
+  ]
+},
+
+"category_81": {
+  "questions": [
+    "drumming",
+    "how to drum",
+    "beginner drummer"
+  ],
+  "response": [
+    "Practice basic rhythms on a practice pad. Work on timing!",
+    "Take lessons or watch tutorial videos to improve technique."
+  ]
+},
+"category_82": {
+  "questions": [
+    "public domain books",
+    "classics to read",
+    "where to find free ebooks"
+  ],
+  "response": [
+    "Project Gutenberg offers thousands of free eBooks!",
+    "Try reading classics like 'Pride and Prejudice' or 'Moby Dick.'"
+  ]
+},
+"category_83": {
+  "questions": [
+    "calligraphy",
+    "beautiful handwriting",
+    "fancy lettering"
+  ],
+  "response": [
+    "Use a proper calligraphy pen or brush markers and practice strokes!",
+    "Focus on consistent spacing and fluid motions."
+  ]
+},
+"category_84": {
+  "questions": [
+    "resume writing",
+    "cv improvement",
+    "job application tips"
+  ],
+  "response": [
+    "Highlight achievements, not just duties!",
+    "Tailor each resume to the specific job."
+  ]
+},
+"category_85": {
+  "questions": [
+    "build confidence",
+    "self esteem tips",
+    "how to be more confident"
+  ],
+  "response": [
+    "Acknowledge your achievements, set small goals, and celebrate progress!",
+    "Positive self-talk goes a long way."
+  ]
+},
+
+"category_86": {
+  "questions": [
+    "stress management",
+    "reduce anxiety",
+    "relaxation techniques"
+  ],
+  "response": [
+    "Try deep breathing, mindfulness, or short walks!",
+    "Identify stressors and address them step by step."
+  ]
+},
+"category_87": {
+  "questions": [
+    "PC building",
+    "assemble a computer",
+    "choose components"
+  ],
+  "response": [
+    "Research compatible parts and watch build tutorials!",
+    "Ensure you have the right tools and static precautions."
+  ]
+},
+"category_88": {
+  "questions": [
+    "crypto trading",
+    "buy bitcoin",
+    "beginner crypto"
+  ],
+  "response": [
+    "Start with reputable exchanges, invest only what you can afford to lose.",
+    "Understand volatility and do thorough research."
+  ]
+},
+"category_89": {
+  "questions": [
+    "mobile photography",
+    "phone camera tips",
+    "better phone pics"
+  ],
+  "response": [
+    "Use natural light, tap to focus, and keep your lens clean!",
+    "Experiment with editing apps to enhance images."
+  ]
+},
+"category_90": {
+  "questions": [
+    "writing a novel",
+    "become an author",
+    "how to publish a book"
+  ],
+  "response": [
+    "Outline your plot, develop strong characters, and write consistently.",
+    "Consider self-publishing or traditional routes once your draft is polished."
+  ]
+},
+
+"category_91": {
+  "questions": [
+    "DIY electronics",
+    "arduino projects",
+    "basic circuit"
+  ],
+  "response": [
+    "Start with simple LED blinking or sensor reading!",
+    "Always be mindful of voltage/current and safety."
+  ]
+},
+"category_92": {
+  "questions": [
+    "camping",
+    "outdoor camping",
+    "camping essentials"
+  ],
+  "response": [
+    "Bring a tent, sleeping bag, proper clothes, and plenty of water!",
+    "Check the weather and let someone know your itinerary."
+  ]
+
+},
+"category_93": {
+  "questions": [
+    "how do I start cycling",
+    "cycling for beginners",
+    "what bike should I get",
+    "basic bike maintenance",
+    "improve cycling endurance"
+  ],
+  "response": [
+    "Start with a comfortable bike that fits you well and practice short rides!",
+    "Check tire pressure and chain regularly, and build endurance gradually."
+  ]
+},
+"category_94": {
+  "questions": [
+    "learn baking",
+    "how to bake bread",
+    "best baking tips",
+    "dessert ideas",
+    "improve baking skills"
+  ],
+  "response": [
+    "Ensure you measure ingredients accurately and preheat the oven properly!",
+    "Practice makes perfect—start with simple recipes like cookies or basic bread."
+  ]
+
+},
+"category_95": {
+  "questions": [
+    "how to write a resume",
+    "improve my CV",
+    "resume format tips",
+    "best resume practices",
+    "writing a professional resume"
+  ],
+  "response": [
+    "Highlight your relevant experience, keep it concise, and tailor it to the job!",
+    "Use clear formatting with headings like 'Experience,' 'Education,' and 'Skills.'"
+  ]
+},
+"category_96": {
+  "questions": [
+    "job interview tips",
+    "ace an interview",
+    "how to interview well",
+    "common interview questions",
+    "dress code for interviews"
+  ],
+  "response": [
+    "Research the company, practice common questions, and dress appropriately!",
+    "Be confident, be honest, and show genuine interest in the role."
+  ]
+},
+"category_97": {
+  "questions": [
+    "budget travel",
+    "cheap vacations",
+    "saving money on travel",
+    "low-cost flights",
+    "hostels or hotels"
+  ],
+  "response": [
+    "Look for discounts and travel during off-peak seasons!",
+    "Consider hostels, couchsurfing, or budget airlines to save money."
+  ]
+},
+"category_98": {
+  "questions": [
+    "university tips",
+    "college advice",
+    "study routine",
+    "campus life",
+    "selecting a major"
+  ],
+  "response": [
+    "Pick a major that aligns with your interests and career goals!",
+    "Balance your social life and academics by scheduling time for both."
+  ]
+},
+"category_99": {
+  "questions": [
+    "home decorations",
+    "interior design ideas",
+    "renovation tips",
+    "small apartment decor",
+    "improve room aesthetics"
+  ],
+  "response": [
+    "Use light colors to make rooms feel bigger, add mirrors for space illusions!",
+    "Plants and good lighting can transform a room’s vibe."
+  ]
+},
+"category_100": {
+  "questions": [
+    "writing poetry",
+    "poem ideas",
+    "how to be a poet",
+    "improve my poetry",
+    "rhyming tips"
+  ],
+  "response": [
+    "Read other poets for inspiration and experiment with different forms!",
+    "Don’t worry about perfect rhyme; focus on authentic expression."
+  ]
+},
+"category_101": {
+  "questions": [
+    "hosting a party",
+    "party planning",
+    "tips for a great party",
+    "party theme ideas",
+    "guest list management"
+  ],
+  "response": [
+    "Pick a fun theme, create a solid guest list, and have plenty of snacks!",
+    "Encourage mingling with games or music—make sure everyone feels included."
+  ]
+},
+"category_102": {
+  "questions": [
+    "eco-friendly living",
+    "reduce waste at home",
+    "sustainable lifestyle",
+    "green habits",
+    "how to be eco-friendly"
+  ],
+  "response": [
+    "Switch to reusable items, compost organic waste, and conserve energy!",
+    "Research local recycling rules and try to buy products with minimal packaging."
+  ]
+},
+"category_103": {
+  "questions": [
+    "vegan diet tips",
+    "plant-based eating",
+    "vegan lifestyle",
+    "how to go vegan",
+    "vegan meal ideas"
+  ],
+  "response": [
+    "Focus on a variety of fruits, veggies, legumes, and whole grains!",
+    "Explore plant-based protein sources like tofu, tempeh, and lentils."
+  ]
+},
+"category_104": {
+  "questions": [
+    "world history facts",
+    "major historical events",
+    "famous empires",
+    "ancient civilizations",
+    "historical timeline"
+  ],
+  "response": [
+    "Sumerians, Egyptians, Romans, and many others contributed to civilization!",
+    "Reading comprehensive history books or reputable online sources helps."
+  ]
+},
+"category_105": {
+  "questions": [
+    "art history basics",
+    "renaissance art",
+    "famous painters",
+    "art movements",
+    "understanding artwork"
+  ],
+  "response": [
+    "Explore different eras (Renaissance, Impressionism, Modern) to see style evolutions!",
+    "Famous painters include da Vinci, van Gogh, Picasso, among others."
+  ]
+},
+"category_106": {
+  "questions": [
+    "how to start a YouTube channel",
+    "vlogging tips",
+    "grow YouTube subscribers",
+    "youtube monetization",
+    "content creation for YouTube"
+  ],
+  "response": [
+    "Focus on consistent uploads, good audio, and relevant tags!",
+    "Engage with your audience via comments and community posts."
+  ]
+},
+"category_107": {
+  "questions": [
+    "philosophy basics",
+    "great philosophers",
+    "plato vs aristotle",
+    "what is metaphysics",
+    "ethics in philosophy"
+  ],
+  "response": [
+    "Philosophy questions reality, existence, and values—start with the Greeks!",
+    "Aristotle was more empirical, Plato more idealistic; interesting contrast!"
+  ]
+},
+"category_108": {
+  "questions": [
+    "intro to psychology",
+    "behavioral psychology",
+    "freud vs jung",
+    "mental processes",
+    "human cognition"
+  ],
+  "response": [
+    "Psychology studies mind and behavior. Freud and Jung had differing views on the unconscious.",
+    "Explore subfields like cognitive, behavioral, or developmental psychology."
+  ]
+},
+"category_109": {
+  "questions": [
+    "quantum physics basics",
+    "what is quantum mechanics",
+    "schrodinger's cat",
+    "heisenberg uncertainty principle",
+    "particle-wave duality"
+  ],
+  "response": [
+    "Quantum mechanics deals with subatomic particles and probabilities!",
+    "It’s quite complex, involving ideas like uncertainty and wavefunctions."
+  ]
+},
+"category_110": {
+  "questions": [
+    "learn programming logic",
+    "coding mindset",
+    "programming problem solving",
+    "algorithm basics",
+    "computer science fundamentals"
+  ],
+  "response": [
+    "Focus on understanding data structures and algorithms early!",
+    "Practice problem-solving on sites like LeetCode or HackerRank."
+  ]
+},
+"category_111": {
+  "questions": [
+    "digital painting",
+    "best drawing tablets",
+    "learning procreate",
+    "photoshop painting tips",
+    "art software"
+  ],
+  "response": [
+    "Wacom tablets are popular, and Procreate is great on iPad!",
+    "Explore layer modes and different brushes for unique styles."
+  ]
+},
+"category_112": {
+  "questions": [
+    "improve communication skills",
+    "effective communication",
+    "speak clearly",
+    "active listening tips",
+    "avoid miscommunication"
+  ],
+  "response": [
+    "Focus on clarity, listening actively, and considering the other person's perspective!",
+    "Summarize what you heard to confirm understanding."
+  ]
+},
+"category_113": {
+  "questions": [
+    "learn to code in c++",
+    "c++ basics",
+    "object-oriented programming",
+    "c++ vs python",
+    "compile code"
+  ],
+  "response": [
+    "C++ is powerful but can be complex—start with variables, loops, and functions!",
+    "Practice building small console apps to get comfortable with syntax."
+  ]
+},
+"category_114": {
+  "questions": [
+    "learn javascript",
+    "front end dev",
+    "web programming",
+    "dynamic web pages",
+    "es6 features"
+  ],
+  "response": [
+    "JavaScript runs in the browser—great for interactive websites!",
+    "Explore ES6 for modern syntax like arrow functions and let/const."
+  ]
+},
+"category_115": {
+  "questions": [
+    "healthy lifestyle tips",
+    "balance work and life",
+    "improve wellness",
+    "holistic health",
+    "mind-body connection"
+  ],
+  "response": [
+    "Focus on nutrition, exercise, hydration, and mental rest!",
+    "Small habits like daily walks or journaling can boost overall wellness."
+  ]
+},
+"category_116": {
+  "questions": [
+    "reducing plastic use",
+    "eco friendly products",
+    "zero waste tips",
+    "plastic free lifestyle",
+    "sustainable shopping"
+  ],
+  "response": [
+    "Opt for reusable bags, water bottles, and containers!",
+    "Check out zero-waste stores and buy in bulk to reduce packaging."
+  ]
+},
+"category_117": {
+  "questions": [
+    "book suggestions",
+    "reading list",
+    "favorite novels",
+    "recommend me a book",
+    "top fiction"
+  ],
+  "response": [
+    "Try classics like '1984' or modern hits like 'The Kite Runner'!",
+    "Check out bestsellers on Goodreads for more ideas."
+  ]
+},
+"category_118": {
+  "questions": [
+    "baking cakes",
+    "cake recipes",
+    "baking from scratch",
+    "dessert baking tips",
+    "how to bake a cake"
+  ],
+  "response": [
+    "Use room-temperature ingredients and don’t overmix the batter!",
+    "Test for doneness with a toothpick—if it comes out clean, cake’s done!"
+  ]
+},
+"category_119": {
+  "questions": [
+    "pet training",
+    "train a puppy",
+    "how to teach dog tricks",
+    "behavioral training",
+    "housebreaking a dog"
+  ],
+  "response": [
+    "Consistency and positive reinforcement are key!",
+    "Short, frequent training sessions work best for puppies."
+  ]
+},
+"category_120": {
+  "questions": [
+    "cooking advice",
+    "kitchen tips",
+    "improve cooking skills",
+    "basic cooking",
+    "meal prepping"
+  ],
+  "response": [
+    "Always prep ingredients beforehand, keep knives sharp, and taste as you go!",
+    "Meal prep on weekends to save time during busy weekdays."
+  ]
+},
+"category_121": {
+  "questions": [
+    "piano learning",
+    "beginner piano tips",
+    "sheet music reading",
+    "piano practice routine",
+    "improve piano skills"
+  ],
+  "response": [
+    "Start with basic scales and chords, and use a metronome for timing!",
+    "Practice reading simple sheet music to build your sight-reading."
+  ]
+},
+"category_122": {
+  "questions": [
+    "reduce anxiety",
+    "anxiety coping methods",
+    "stay calm",
+    "anxiety management",
+    "dealing with anxious thoughts"
+  ],
+  "response": [
+    "Deep breathing and grounding exercises can help calm anxiety!",
+    "Professional help and counseling can offer strategies if anxiety persists."
+  ]
+},
+"category_123": {
+  "questions": [
+    "best tv shows",
+    "series recommendations",
+    "what to binge watch",
+    "tv streaming"
+  ],
+  "response": [
+    "Try popular shows like 'Stranger Things' or 'Breaking Bad.'",
+    "Look for trending series on Netflix, Hulu, or HBO!"
+  ]
+},
+"category_124": {
+  "questions": [
+    "best anime",
+    "anime suggestions",
+    "favorite anime series",
+    "what anime should I watch"
+  ],
+  "response": [
+    "'Attack on Titan' or 'Fullmetal Alchemist: Brotherhood' are great picks!",
+    "Try slice-of-life genres if you want something more relaxing."
+  ]
+},
+"category_125": {
+  "questions": [
+    "knitting basics",
+    "how to knit",
+    "yarn crafts",
+    "knitting projects",
+    "improve knitting"
+  ],
+  "response": [
+    "Learn basic stitches like knit and purl first!",
+    "Plenty of tutorials on YouTube, and practice tension control."
+  ]
+},
+"category_126": {
+  "questions": [
+    "comic conventions",
+    "fan expos",
+    "cosplay tips",
+    "best comic con",
+    "meeting authors"
+  ],
+  "response": [
+    "Check local events or major ones like San Diego Comic-Con!",
+    "Cosplay can be handmade or purchased; just have fun with it!"
+  ]
+},
+"category_127": {
+  "questions": [
+    "improve memory",
+    "memory techniques",
+    "study hacks",
+    "retain information better",
+    "memorization tips"
+  ],
+  "response": [
+    "Use mnemonics, chunking, and spaced repetition!",
+    "Review notes regularly instead of cramming."
+  ]
+},
+"category_128": {
+  "questions": [
+    "card magic tricks",
+    "learn magic",
+    "performing illusions",
+    "simple magic techniques",
+    "magic show tips"
+  ],
+  "response": [
+    "Practice sleight of hand with a deck of cards daily!",
+    "Presentation is half the trick—build up suspense!"
+  ]
+},
+"category_129": {
+  "questions": [
+    "how to be happier",
+    "boost happiness",
+    "positivity tips",
+    "grateful mindset",
+    "improve mood"
+  ],
+  "response": [
+    "Focus on gratitude, mindfulness, and strong social connections!",
+    "Set realistic goals and celebrate small milestones."
+  ]
+},
+"category_130": {
+  "questions": [
+    "learn to dance",
+    "dance basics",
+    "improve rhythm",
+    "best dance styles",
+    "dancing for fun"
+  ],
+  "response": [
+    "Start with basic footwork in a style you like—salsa, hip-hop, or waltz!",
+    "Take a beginner's class or follow YouTube tutorials to build confidence."
+  ]
+},
+"category_131": {
+  "questions": [
+    "marathon training",
+    "long-distance running",
+    "improve running stamina",
+    "half marathon tips",
+    "5k to marathon"
+  ],
+  "response": [
+    "Gradually increase your mileage weekly, and schedule rest days!",
+    "Proper hydration and nutrition are crucial for endurance events."
+  ]
+},
+"category_132": {
+  "questions": [
+    "candle making",
+    "DIY candles",
+    "aromatherapy candles",
+    "crafting candles",
+    "best candle scents"
+  ],
+  "response": [
+    "Melt wax slowly, add fragrance at the right temperature!",
+    "Experiment with different essential oils for unique scents."
+  ]
+},
+"category_133": {
+  "questions": [
+    "mobile photography tips",
+    "better phone photos",
+    "smartphone camera tricks",
+    "lighting for phone pics",
+    "composition on mobile"
+  ],
+  "response": [
+    "Clean your lens, use natural light if possible, and use the grid for composition!",
+    "Phone cameras have advanced settings too—play with focus and exposure."
+  ]
+},
+"category_134": {
+  "questions": [
+    "latest iphone rumors",
+    "new iphone release",
+    "next apple phone model",
+    "what’s apple announcing next",
+    "iphone leaks"
+  ],
+  "response": [
+    "Rumor sites often mention new camera upgrades and faster chips each year!",
+    "Apple typically announces iPhones in the fall—keep an eye on their events."
+  ]
+},
+"category_135": {
+  "questions": [
+    "compare samsung vs apple",
+    "which phone brand is better",
+    "android or ios debate",
+    "samsung galaxy vs iphone",
+    "pros and cons of apple vs samsung"
+  ],
+  "response": [
+    "Both have strengths—Samsung often offers more customization; Apple has a tight ecosystem!",
+    "It depends on personal preference: Android is more open, iOS is more streamlined."
+  ]
+},
+"category_136": {
+  "questions": [
+    "what’s new in ios",
+    "latest ios features",
+    "ios update info",
+    "apple software updates",
+    "ios version release notes"
+  ],
+  "response": [
+    "Recent iOS versions add better widgets, privacy controls, and FaceTime enhancements!",
+    "Keep your device updated to get security fixes and new features."
+  ]
+},
+"category_137": {
+  "questions": [
+    "samsung galaxy s series",
+    "features of galaxy s phone",
+    "samsung new flagship",
+    "galaxy s specs",
+    "compare galaxy s models"
+  ],
+  "response": [
+    "The Galaxy S lineup typically has top-notch cameras and high-end displays!",
+    "Look for the Ultra version if you want the best specs and the stylus (S-Pen)."
+  ]
+},
+"category_138": {
+  "questions": [
+    "latest macbook",
+    "macbook specs",
+    "apple silicon mac",
+    "which macbook to buy",
+    "compare macbook air vs macbook pro"
+  ],
+  "response": [
+    "Apple Silicon (M1/M2) offers great battery life and performance!",
+    "If you need portability, MacBook Air is lighter; Pro is for heavier tasks."
+  ]
+},
+"category_139": {
+  "questions": [
+    "google pixel phones",
+    "latest pixel specs",
+    "compare pixel with iphone",
+    "pixel camera features",
+    "android pure experience"
+  ],
+  "response": [
+    "Pixel phones offer a clean Android experience and top-tier camera software!",
+    "They often get Android updates before other brands."
+  ]
+
+}, 
+"category_140": {
+  "questions": [
+    "airpods info",
+    "wireless earbuds by apple",
+    "compare airpods pro vs airpods",
+    "best earbuds for iphone",
+    "new airpods release"
+  ],
+  "response": [
+    "AirPods Pro have noise cancellation and silicone tips for a better seal!",
+    "Regular AirPods are more affordable if you don’t need noise cancellation."
+  ]
+},
+"category_141": {
+  "questions": [
+    "best android phones",
+    "top android device",
+    "flagship android recommendation",
+    "compare xiaomi vs samsung",
+    "oneplus phone good?"
+  ],
+  "response": [
+    "Samsung, OnePlus, and Xiaomi all make great flagships. Compare specs & price!",
+    "Try checking out detailed reviews on tech sites or YouTube."
+  ]
+},
+"category_142": {
+  "questions": [
+    "apple watch update",
+    "latest watchos",
+    "new apple watch features",
+    "fitness tracking on apple watch",
+    "smartwatch comparison"
+  ],
+  "response": [
+    "Apple Watch offers health monitoring like ECG and blood oxygen tracking!",
+    "WatchOS updates frequently add new watch faces and fitness improvements."
+  ]
+},
+"category_143": {
+  "questions": [
+    "what is magsafe",
+    "apple magsafe accessories",
+    "wireless charging iphone",
+    "magsafe charger info",
+    "iphone magnet case"
+  ],
+  "response": [
+    "MagSafe is Apple’s magnetic system for wireless charging and accessories!",
+    "It aligns your phone precisely for charging and works with compatible cases."
+  ]
+},
+"category_144": {
+  "questions": [
+    "apple vs windows pc",
+    "mac vs windows",
+    "which laptop to choose",
+    "pc gaming vs mac gaming",
+    "ecosystem differences"
+  ],
+  "response": [
+    "Windows PCs have wider hardware choices, while Mac offers a tighter ecosystem!",
+    "Gamers often prefer Windows for broader game support."
+  ]
+},
+"category_145": {
+  "questions": [
+    "latest android version",
+    "android 12 or 13 changes",
+    "new features in android",
+    "google android update",
+    "how to update android phone"
+  ],
+  "response": [
+    "Recent Android versions add improved privacy dashboards and design overhauls!",
+    "Go to Settings > System > Advanced > System Update on most devices."
+  ]
+},
+"category_146": {
+  "questions": [
+    "airdrop usage",
+    "how to airdrop files",
+    "apple file sharing",
+    "airdrop troubleshooting",
+    "transfer photos iphone to mac"
+  ],
+  "response": [
+    "Turn on Wi-Fi/Bluetooth on both devices; select the file, tap Share > AirDrop!",
+    "Both devices must be set to receive Airdrop (Contacts Only or Everyone)."
+  ]
+},
+"category_147": {
+  "questions": [
+    "samsung dex info",
+    "desktop experience from phone",
+    "how to use samsung dex",
+    "dex compatible devices",
+    "plug phone into monitor"
+  ],
+  "response": [
+    "Samsung DeX lets you connect your Galaxy phone to a monitor for a desktop-like experience!",
+    "Use a USB-C to HDMI cable or DeX dock; pair a keyboard and mouse for best results."
+  ]
+},
+"category_148": {
+  "questions": [
+    "what is google stadia",
+    "cloud gaming google",
+    "stadia games",
+    "how does stadia work",
+    "any good cloud gaming"
+  ],
+  "response": [
+    "Stadia streams games from the cloud. No console needed—just fast internet!",
+    "You can buy games or subscribe for perks; note Google’s updates on its longevity."
+  ]
+},
+"category_149": {
+  "questions": [
+    "apple tv device",
+    "apple tv 4k features",
+    "streaming on apple tv",
+    "compare apple tv vs roku",
+    "homekit with apple tv"
+  ],
+  "response": [
+    "Apple TV 4K supports high-resolution streaming and integrates with the Apple ecosystem!",
+    "It can act as a HomeKit hub for automation. Roku is simpler and cheaper if you don’t need Apple features."
+  ]
+},
+"category_150": {
+  "questions": [
+    "samsung foldable phones",
+    "galaxy fold info",
+    "are foldable phones good",
+    "durability of foldables",
+    "flip phone revival"
+  ],
+  "response": [
+    "Galaxy Fold offers a tablet-like screen when unfolded!",
+    "Durability has improved, but you still need to handle the hinge carefully."
+  ]
+},
+"category_151": {
+  "questions": [
+    "apple event rumors",
+    "next apple keynote",
+    "spring/fall apple event",
+    "leaks about apple event",
+    "watching apple events"
+  ],
+  "response": [
+    "Apple typically holds events in spring and fall to announce new products!",
+    "Follow Apple’s site or reputable tech news for announcements or rumored release dates."
+  ]
+},
+"category_152": {
+  "questions": [
+    "compare oneplus vs xiaomi",
+    "chinese phone brands",
+    "budget flagship phone",
+    "oxygenos vs miui",
+    "which is better oneplus or xiaomi"
+  ],
+  "response": [
+    "Both offer good value. OnePlus uses a near-stock Android (OxygenOS); Xiaomi has MIUI with more features.",
+    "Check local pricing, UI preference, and camera quality to decide."
+  ]
+},
+"category_153": {
+  "questions": [
+    "apple ecosystem benefits",
+    "sync across apple devices",
+    "handoff feature",
+    "icloud usage",
+    "why apple ecosystem is good"
+  ],
+  "response": [
+    "Apple devices integrate with iMessage, AirDrop, iCloud, etc., for seamless transitions!",
+    "Handoff lets you start a task on one device and continue on another."
+  ]
+},
+"category_154": {
+  "questions": [
+    "smart home devices",
+    "best smart home hub",
+    "home automation ideas",
+    "alexa vs google assistant",
+    "apple homekit or amazon echo"
+  ],
+  "response": [
+    "Alexa, Google Assistant, and HomeKit vary in ecosystems. Check device compatibility first!",
+    "Popular starting points are smart bulbs, thermostats, or security cams."
+  ]
+},
+"category_155": {
+  "questions": [
+    "magsafe accessories",
+    "iphone magnetic chargers",
+    "magsafe wallet",
+    "best magsafe cases",
+    "is magsafe worth it"
+  ],
+  "response": [
+    "MagSafe aligns your phone for easy wireless charging; accessories snap on securely!",
+    "If you’re in Apple’s ecosystem, it can be quite convenient."
+  ]
+},
+"category_156": {
+  "questions": [
+    "apple watch vs fitbit",
+    "best fitness tracker",
+    "compare apple watch features",
+    "fitbit or garmin",
+    "tracking workouts"
+  ],
+  "response": [
+    "Apple Watch is great for iPhone users; Fitbit is simpler and battery lasts longer!",
+    "Garmin is popular if you’re serious about running or triathlons."
+  ]
+},
+"category_157": {
+  "questions": [
+    "ipad vs samsung tablet",
+    "which tablet is better",
+    "ios or android tablet",
+    "productivity on tablets",
+    "apple pencil vs s pen"
+  ],
+  "response": [
+    "iPad excels with iOS apps; Samsung is more flexible with Android!",
+    "Check stylus preferences: Apple Pencil or S Pen. Ecosystem matters too."
+  ]
+},
+"category_158": {
+  "questions": [
+    "apple car rumors",
+    "project titan apple",
+    "electric car by apple",
+    "self driving apple car",
+    "eta for apple car"
+  ],
+  "response": [
+    "Apple Car is rumored but not officially confirmed—very secretive!",
+    "Speculations mention EV and autonomous tech, but no solid release dates."
+  ]
+},
+"category_159": {
+  "questions": [
+    "mac mini vs imac",
+    "desktop apple computer",
+    "mac or pc for home use",
+    "which mac is best",
+    "apple m1 or m2 chip"
+  ],
+  "response": [
+    "Mac mini is small & modular; iMac is an all-in-one. Both use Apple Silicon now!",
+    "M1 & M2 chips offer excellent performance for everyday tasks, but check your workload needs."
+  ]
+},
+"category_160": {
+  "questions": [
+    "best budget smartphone",
+    "cheap phone recommendation",
+    "sub $300 phone",
+    "value phone android",
+    "low-cost but good phone"
+  ],
+  "response": [
+    "Look at Xiaomi, Motorola, or Samsung A-series for decent specs under $300!",
+    "Compare camera, battery life, and software support before buying."
+  ]
+},
+"category_161": {
+  "questions": [
+    "fold vs flip phone",
+    "galaxy z fold or galaxy z flip",
+    "which foldable is better",
+    "difference between fold and flip",
+    "durability concerns"
+  ],
+  "response": [
+    "The Fold becomes a tablet, while the Flip is compact and clamshell!",
+    "Hinges are more robust than early models, but still handle with care."
+  ]
+},
+"category_162": {
+  "questions": [
+    "latest macos",
+    "macos features",
+    "apple desktop os",
+    "how to update mac",
+    "mac system preferences"
+  ],
+  "response": [
+    "macOS updates often add continuity features, new apps, and better security!",
+    "Check System Preferences > Software Update for the latest version."
+  ]
+},
+"category_163": {
+  "questions": [
+    "apple tv plus",
+    "apple streaming service",
+    "shows on apple tv+",
+    "compare apple tv+ to netflix",
+    "original content apple"
+  ],
+  "response": [
+    "Apple TV+ features original shows like 'Ted Lasso' and 'Severance'!",
+    "Smaller library than Netflix but emphasizes high-quality exclusives."
+  ]
+},
+"category_164": {
+  "questions": [
+    "icloud usage",
+    "apple cloud storage",
+    "icloud drive vs dropbox",
+    "how to back up iphone",
+    "managing icloud space"
+  ],
+  "response": [
+    "iCloud syncs data across Apple devices—photos, docs, backups!",
+    "Buy extra storage if needed or manage old backups to free space."
+  ]
+},
+"category_165": {
+  "questions": [
+    "ipados features",
+    "how is ipados different",
+    "tablet os by apple",
+    "split screen on ipad",
+    "multitasking ipad"
+  ],
+  "response": [
+    "iPadOS supports better multitasking like Split View or Slide Over!",
+    "It’s optimized for the larger screen with Apple Pencil integration."
+  ]
+},
+"category_166": {
+  "questions": [
+    "apple arcade info",
+    "mobile gaming subscription",
+    "games on apple arcade",
+    "family sharing apple arcade",
+    "offline games on apple arcade"
+  ],
+  "response": [
+    "Apple Arcade is a subscription with ad-free games across iPhone, iPad, Mac, and Apple TV!",
+    "Some games can be played offline, and you can share via Family Sharing."
+  ]
+},
+"category_167": {
+  "questions": [
+    "safari vs chrome on mac",
+    "best browser for macos",
+    "compare safari to google chrome",
+    "browser performance mac",
+    "which browser is more private"
+  ],
+  "response": [
+    "Safari is optimized for Mac battery life and iCloud sync; Chrome has more extensions!",
+    "Privacy-wise, Safari blocks trackers more aggressively by default."
+  ]
+},
+"category_168": {
+  "questions": [
+    "airtags usage",
+    "track items with airtag",
+    "bluetooth tracker apple",
+    "how far do airtags work",
+    "find lost keys"
+  ],
+  "response": [
+    "AirTags use Apple’s Find My network. They can be tracked globally if near any iPhone!",
+    "Attach them to keys, wallets, etc., and track in the Find My app."
+  ]
+},
+"category_169": {
+  "questions": [
+    "apple watch se vs series",
+    "which apple watch to buy",
+    "affordable apple watch",
+    "compare watch se vs watch 8",
+    "new watch release"
+  ],
+  "response": [
+    "SE is cheaper with fewer sensors; Series 8 adds advanced health features like ECG!",
+    "Pick based on your budget and which features matter most to you."
+  ]
+},
+"category_170": {
+  "questions": [
+    "samsung watch vs apple watch",
+    "galaxy watch features",
+    "smartwatch comparison",
+    "wear os vs watchos",
+    "which watch is better"
+  ],
+  "response": [
+    "Galaxy Watch runs Wear OS or Tizen in older models; Apple Watch uses watchOS—choose based on your phone!",
+    "Features are similar, but integration is best within each brand’s ecosystem."
+  ]
+},
+"category_171": {
+  "questions": [
+    "huawei phones",
+    "compare huawei vs samsung",
+    "huawei google services",
+    "p series or mate series",
+    "huawei camera quality"
+  ],
+  "response": [
+    "Huawei phones have strong cameras but may lack full Google services!",
+    "Check local support and software availability."
+  ]
+},
+"category_172": {
+  "questions": [
+    "apple pay usage",
+    "contactless payment iphone",
+    "set up apple pay",
+    "is apple pay secure",
+    "tap to pay on iphone"
+  ],
+  "response": [
+    "Apple Pay uses NFC. Add cards in Wallet, authenticate with Face/Touch ID!",
+    "It’s quite secure—unique device account number for each transaction."
+  ]
+},
+"category_173": {
+  "questions": [
+    "android auto vs apple carplay",
+    "car infotainment systems",
+    "smartphone integration in cars",
+    "carplay tips",
+    "which is better carplay or android auto"
+  ],
+  "response": [
+    "CarPlay is for iPhone, Android Auto for Android—both mirror navigation, calls, music!",
+    "Pick the one matching your phone ecosystem for best compatibility."
+  ]
+},
+"category_174": {
+  "questions": [
+    "best gaming phone",
+    "rog phone info",
+    "asus gaming phone",
+    "black shark phone",
+    "gaming mobile specs"
+  ],
+  "response": [
+    "Gaming phones have high refresh rate screens (120-144Hz) and robust cooling!",
+    "ROG Phone, Black Shark, RedMagic are designed specifically for mobile gaming."
+  ]
+},
+"category_175": {
+  "questions": [
+    "earbuds vs headphones",
+    "compare audio gear",
+    "wireless earphones suggestions",
+    "best bluetooth headphones",
+    "sound quality tips"
+  ],
+  "response": [
+    "Headphones often have richer sound and better isolation; earbuds are more portable!",
+    "Look for features like noise cancellation or transparency mode."
+  ]
+},
+"category_176": {
+  "questions": [
+    "drone recommendations",
+    "best camera drone",
+    "drone flying tips",
+    "dji vs other brands",
+    "beginner drone usage"
+  ],
+  "response": [
+    "DJI leads in consumer drones; start with something like the Mini if you're new!",
+    "Follow local regulations and practice in open areas first."
+  ]
+},
+"category_177": {
+  "questions": [
+    "smart displays",
+    "google nest hub vs echo show",
+    "amazon alexa screen",
+    "best device for kitchen"
+  ],
+  "response": [
+    "Nest Hub uses Google Assistant, Echo Show uses Alexa. Both can display recipes, weather, etc.",
+    "Choose based on your existing ecosystem and voice assistant preference."
+  ]
+},
+"category_178": {
+  "questions": [
+    "best laptops 2023",
+    "ultrabook recommendations",
+    "gaming laptop or ultrabook",
+    "lightweight laptop suggestions",
+    "compare laptop brands"
+  ],
+  "response": [
+    "Dell XPS, MacBook Air, and Lenovo ThinkPad are top picks, each with pros/cons!",
+    "Decide on OS (Windows vs macOS), performance needs, and budget."
+  ]
+},
+"category_179": {
+  "questions": [
+    "raspberry pi ideas",
+    "mini pc projects",
+    "what is raspberry pi used for",
+    "home automation pi",
+    "learn coding with raspberry pi"
+  ],
+  "response": [
+    "Build retro gaming consoles, media servers, or IoT projects with a Pi!",
+    "It's great for Linux basics, electronics, and coding practice."
+  ]
+},
+"category_180": {
+  "questions": [
+    "linux distros",
+    "best linux os",
+    "ubuntu vs fedora",
+    "linux for beginners",
+    "why use linux"
+  ],
+  "response": [
+    "Ubuntu is beginner-friendly, Fedora is cutting-edge, both are popular!",
+    "Linux offers open-source freedom and community support."
+  ]
+},
+"category_181": {
+  "questions": [
+    "microsoft surface devices",
+    "surface pro vs laptop",
+    "2-in-1 windows device",
+    "stylus usage on surface",
+    "compare surface models"
+  ],
+  "response": [
+    "Surface Pro is a tablet-laptop hybrid, the Laptop is more traditional!",
+    "Both support the Surface Pen for note-taking or drawing."
+  ]
+},
+"category_182": {
+  "questions": [
+    "nvidia shield tv",
+    "android tv device",
+    "4k streaming box",
+    "gaming on shield tv",
+    "compare nvidia shield vs roku"
+  ],
+  "response": [
+    "Nvidia Shield TV can handle 4K streaming and even some light gaming!",
+    "Roku is simpler; Shield is more powerful but pricier."
+  ]
+},
+"category_183": {
+  "questions": [
+    "cloud storage comparison",
+    "google drive vs onedrive",
+    "icloud vs dropbox",
+    "best online storage",
+    "how to pick cloud service"
+  ],
+  "response": [
+    "Google Drive integrates with Gmail; OneDrive with MS 365; iCloud for Apple; Dropbox for simplicity!",
+    "Choose based on your ecosystem, collaboration needs, and storage price."
+  ]
+},
+"category_184": {
+  "questions": [
+    "smartphone battery tips",
+    "extend phone battery life",
+    "battery drain issues",
+    "fast charging advice",
+    "proper phone charging"
+  ],
+  "response": [
+    "Avoid letting battery reach 0% or staying at 100% for too long. Use manufacturer-approved chargers!",
+    "Enable power-saving modes when needed and close unused apps to reduce drain."
+  ]
+
+},
+"category_185": {
+  "questions": [
+    "cigarettes health risks",
+    "why is smoking harmful",
+    "effects of cigarette smoking",
+    "long-term smoking issues",
+    "is smoking safe"
+  ],
+  "response": [
+    "Cigarette smoking can lead to serious health issues like lung cancer and heart disease.",
+    "Medical professionals strongly advise quitting due to the long-term risks."
+  ]
+},
+"category_186": {
+  "questions": [
+    "best vape flavors",
+    "popular e-liquid tastes",
+    "vape juice recommendations",
+    "fruit vs dessert vape",
+    "menthol or tobacco flavor"
+  ],
+  "response": [
+    "Flavor preference is personal; fruit, dessert, and menthol are popular categories!",
+    "Always check for reputable brands that follow safety standards."
+  ]
+},
+"category_187": {
+  "questions": [
+    "quitting cigarettes tips",
+    "how to stop smoking",
+    "nicotine withdrawal help",
+    "ways to reduce cravings",
+    "smoking cessation advice"
+  ],
+  "response": [
+    "Techniques include nicotine patches, gum, and counseling for behavior change.",
+    "Professional help (doctor, quitline) can guide you through the process."
+  ]
+},
+"category_188": {
+  "questions": [
+    "best vape brand",
+    "popular e-cigarette companies",
+    "compare vape devices",
+    "leading vape manufacturers",
+    "high-quality vapes"
+  ],
+  "response": [
+    "Brands like SMOK, Vaporesso, GeekVape, and Voopoo are well-known in the vaping scene!",
+    "Always buy from reputable retailers to ensure authenticity and safety."
+  ]
+},
+"category_189": {
+  "questions": [
+    "hookah vs cigarette",
+    "shisha health concerns",
+    "waterpipe smoking info",
+    "differences between hookah and vaping",
+    "is hookah safer"
+  ],
+  "response": [
+    "Hookah smoke still contains nicotine and toxins; it’s not necessarily safer!",
+    "Sessions can last longer, exposing you to more smoke over time."
+  ]
+},
+"category_190": {
+  "questions": [
+    "secondhand smoke dangers",
+    "effects on non-smokers",
+    "passive smoking info",
+    "children around smoke",
+    "why is secondhand smoke harmful"
+  ],
+  "response": [
+    "Secondhand smoke can cause respiratory problems, especially in kids or those with asthma!",
+    "It contains many of the same toxic chemicals found in directly inhaled smoke."
+  ]
+},
+"category_191": {
+  "questions": [
+    "nicotine addiction",
+    "why is nicotine addictive",
+    "managing nicotine dependence",
+    "chemical in cigarettes",
+    "brain effects of nicotine"
+  ],
+  "response": [
+    "Nicotine stimulates dopamine release, leading to dependence over time!",
+    "Withdrawal symptoms can include irritability, cravings, and anxiety."
+  ]
+},
+"category_192": {
+  "questions": [
+    "chewing tobacco info",
+    "dip vs cigarettes",
+    "oral tobacco health risks",
+    "smokeless tobacco effects",
+    "is dip safer than smoking"
+  ],
+  "response": [
+    "Chewing tobacco can cause gum disease, tooth loss, and oral cancers!",
+    "It’s not safer—still poses serious health risks."
+  ]
+},
+"category_193": {
+  "questions": [
+    "vape pens vs box mods",
+    "beginner vape device",
+    "pod systems explanation",
+    "cloud chasing setups",
+    "difference in vape hardware"
+  ],
+  "response": [
+    "Pod systems are simpler, with lower power and smaller clouds; box mods allow advanced settings!",
+    "Beginners often start with pod or pen-style vapes for ease of use."
+  ]
+},
+"category_194": {
+  "questions": [
+    "heated tobacco products",
+    "iqos vs cigarettes",
+    "heat not burn technology",
+    "are heatsticks safer",
+    "differences from regular smokes"
+  ],
+  "response": [
+    "Heated tobacco devices heat sticks instead of burning them, producing an aerosol!",
+    "They still contain nicotine and some harmful chemicals—studies are ongoing."
+  ]
+},
+"category_195": {
+  "questions": [
+    "teen vaping concerns",
+    "underage e-cigarette use",
+    "why teens vape",
+    "risks for adolescents vaping",
+    "flavored vapes and youth"
+  ],
+  "response": [
+    "Teen vaping is a growing concern; flavors can attract younger users!",
+    "Nicotine can harm brain development in adolescents. Education is crucial."
+  ]
+},
+"category_196": {
+  "questions": [
+    "how to switch from smoking to vaping",
+    "transition to e-cig",
+    "reduce cigarette consumption",
+    "vaping as harm reduction",
+    "is vaping less harmful"
+  ],
+  "response": [
+    "Some use vaping to quit cigarettes; health organizations still advise caution!",
+    "Consult a professional to find a strategy that works for you."
+  ]
+},
+"category_197": {
+  "questions": [
+    "herbal cigarettes",
+    "tobacco-free smokes",
+    "are herbal cigs safe",
+    "nicotine-free alternatives",
+    "smoking but no tobacco"
+  ],
+  "response": [
+    "Herbal cigs contain no nicotine but still produce smoke and potential toxins!",
+    "They're not necessarily risk-free; best approach is stopping inhalation of any combusted material."
+  ]
+},
+"category_198": {
+  "questions": [
+    "what is zero nic vape",
+    "nicotine-free vaping",
+    "just flavor e-liquids",
+    "non-nic ejuice",
+    "why use 0mg vape"
+  ],
+  "response": [
+    "0mg vape juice has no nicotine, used by those who enjoy flavor and habit of vaping!",
+    "Can help reduce dependence but still not entirely risk-free (chemicals, lung health)."
+  ]
+},
+"category_199": {
+  "questions": [
+    "cigar smoking vs cigarettes",
+    "are cigars safer",
+    "cigar health risks",
+    "how is cigar tobacco different",
+    "cigar culture"
+  ],
+  "response": [
+    "Cigars still contain nicotine and produce harmful smoke—often inhaled less, but can be just as risky!",
+    "Mouth and throat cancers are more common among cigar smokers."
+  ]
+},
+"category_200": {
+  "questions": [
+    "vaping etiquette",
+    "where is it okay to vape",
+    "public vaping rules",
+    "vape courtesy",
+    "social tips for vaping"
+  ],
+  "response": [
+    "Check local laws—some places ban vaping where smoking isn’t allowed!",
+    "Be respectful of others’ space; some are sensitive to vapor/smell."
+  ]
+},
+"category_201": {
+  "questions": [
+    "dual sim phones",
+    "why use dual sim",
+    "how to set up dual sim",
+    "best dual sim devices",
+    "managing two sim cards"
+  ],
+  "response": [
+    "Dual SIM lets you keep two numbers on one phone—useful for work/personal or traveling!",
+    "Check if your phone supports eSIM or physical second slot."
+  ]
+
+},
+"category_202": {
+  "questions": [
+    "router buying guide",
+    "best wifi router",
+    "mesh network vs traditional router",
+    "improve home wifi",
+    "router security tips"
+  ],
+  "response": [
+    "Mesh systems help eliminate dead zones; a powerful standalone router can also do the job!",
+    "Change default passwords, enable WPA2/WPA3, and keep firmware updated."
+  ]
+},
+"category_203": {
+  "questions": [
+    "ecig coil replacement",
+    "when to change vape coil",
+    "signs of burnt coil",
+    "vape taste burnt",
+    "improve coil longevity"
+  ],
+  "response": [
+    "If flavor drops or tastes burnt, it’s coil time! Usually every 1–2 weeks, depending on usage.",
+    "Use the correct wattage range and prime coils before use."
+  ]
+},
+"category_204": {
+  "questions": [
+    "bluetooth headphones pairing",
+    "connect wireless headphones",
+    "bluetooth pairing issues",
+    "multiple devices bluetooth",
+    "fix bluetooth connectivity"
+  ],
+  "response": [
+    "Make sure devices are in pairing mode and within range. Toggle Bluetooth off/on if issues persist!",
+    "Updating firmware or drivers can solve many pairing problems."
+  ]
+},
+"category_205": {
+  "questions": [
+    "nintendo switch vs steam deck",
+    "handheld gaming device",
+    "compare portable consoles",
+    "switch exclusive games",
+    "pc games on steam deck"
+  ],
+  "response": [
+    "Nintendo Switch has first-party titles (Zelda, Mario), Steam Deck plays PC games on the go!",
+    "Pick based on the game library you prefer—both are fun handhelds."
+  ]
+},
+"category_206": {
+  "questions": [
+    "what is bqq brand phone",
+    "lesser known phone brands",
+    "budget or obscure phones",
+    "bqq phone specs",
+    "import phone concerns"
+  ],
+  "response": [
+    "Some smaller brands offer interesting phones but might lack official support in certain regions!",
+    "Ensure you check network compatibility and read user reviews first."
+  ]
+},
+"category_207": {
+  "questions": [
+    "ps5 vs xbox series x",
+    "which console is better",
+    "exclusives sony vs microsoft",
+    "console gaming performance",
+    "pc gaming alternative"
+  ],
+  "response": [
+    "PS5 has strong exclusives (Spider-Man, God of War), Xbox Game Pass is a great value on Series X!",
+    "Both have excellent performance—choose based on the ecosystem and exclusive titles you love."
+  ]
+},
+"category_208": {
+  "questions": [
+    "caffeine alternatives",
+    "reducing coffee intake",
+    "tea vs coffee",
+    "energy without caffeine",
+    "healthy wake-up methods"
+  ],
+  "response": [
+    "Try herbal teas, or short walks for a natural energy boost!",
+    "Gradually reduce coffee to avoid withdrawal headaches."
+  ]
+},
+"category_209": {
+  "questions": [
+    "keto diet tips",
+    "low carb lifestyle",
+    "high fat diet info",
+    "is keto safe",
+    "keto meal ideas"
+  ],
+  "response": [
+    "Keto drastically reduces carbs and ups fats—some see quick weight loss!",
+    "Not for everyone. Consult a professional if you have health concerns."
+  ]
+},
+"category_210": {
+  "questions": [
+    "effect of e-cig flavors on health",
+    "are vape flavors safe",
+    "long term vaping unknowns",
+    "diacetyl in e-liquids",
+    "popcorn lung cause"
+  ],
+  "response": [
+    "Some flavoring chemicals can be harmful (e.g., diacetyl). Research is ongoing!",
+    "Choose reputable brands that test their e-liquids for contaminants."
+  ]
+},
+"category_211": {
+  "questions": [
+    "frequent phone upgrades",
+    "should I upgrade phone yearly",
+    "buying new phone every year",
+    "benefits of phone upgrade",
+    "is it worth to get new phone"
+  ],
+  "response": [
+    "Upgrading annually is often expensive and not always necessary unless you need new features!",
+    "Many phones last 2-3 years comfortably with good software support."
+  ]
+},
+"category_212": {
+  "questions": [
+    "apple refurbished devices",
+    "should I buy refurbished",
+    "apple certified refurb",
+    "saving money on apple products",
+    "quality of refurbished"
+  ],
+  "response": [
+    "Apple's own refurbished store is reliable—devices come with warranty and look near-new!",
+    "Refurbs from unknown sources can vary; check return policies and reviews."
+  ]
+},
+"category_213": {
+  "questions": [
+    "vpn usage tips",
+    "best vpn services",
+    "why use a vpn",
+    "secure browsing with vpn",
+    "free vs paid vpn"
+  ],
+  "response": [
+    "VPNs encrypt your traffic and help bypass geo-restrictions. Paid ones are usually more stable!",
+    "Watch out for logging policies—privacy is key."
+  ]
+},
+"category_214": {
+  "questions": [
+    "esports scene",
+    "professional gaming",
+    "league of legends vs dota2",
+    "watch esports events",
+    "careers in esports"
+  ],
+  "response": [
+    "Esports are huge—LoL, Dota2, CS:GO, Valorant all have big tournaments!",
+    "Careers range from pro player to caster, manager, or content creator."
+  ]
+},
+"category_215": {
+  "questions": [
+    "laptop docking station",
+    "universal usb-c dock",
+    "multiple monitors on laptop",
+    "workspace setup",
+    "dock brand suggestions"
+  ],
+  "response": [
+    "Universal USB-C docks can expand ports and connect multiple displays easily!",
+    "Check your laptop’s charging and display output specs for compatibility."
+  ]
+},
+"category_216": {
+  "questions": [
+    "robot vacuum info",
+    "best robo vac",
+    "roomba vs eufy",
+    "automating cleaning",
+    "smart vacuum features"
+  ],
+  "response": [
+    "Brands like iRobot (Roomba) and Eufy are popular; advanced models do mapping!",
+    "Check floor type compatibility and dustbin capacity."
+  ]
+},
+"category_217": {
+  "questions": [
+    "smart ring devices",
+    "oura ring vs others",
+    "wearable ring tech",
+    "track sleep with ring",
+    "is a smart ring worth it"
+  ],
+  "response": [
+    "Oura Ring tracks sleep, activity, HR—tiny but effective. Pricey though!",
+    "Great if you want minimal form factor vs a watch or bracelet."
+  ]
+},
+"category_218": {
+  "questions": [
+    "cbd vs nicotine vape",
+    "cbd e-liquids info",
+    "hemp vape usage",
+    "health effects of cbd",
+    "cbd vs weed"
+  ],
+  "response": [
+    "CBD (non-psychoactive) might help relaxation—verify local laws and product purity!",
+    "Nicotine is addictive; CBD is not, but research is ongoing for both."
+  ]
+},
+"category_219": {
+  "questions": [
+    "arcade sticks for gaming",
+    "fighting game controller",
+    "best arcade stick brand",
+    "pad vs stick",
+    "building custom fightstick"
+  ],
+  "response": [
+    "Brands like Hori, Qanba, and Mad Catz are popular among fighting game fans!",
+    "Custom sticks let you pick buttons and artwork for a personal touch."
+  ]
+},
+"category_220": {
+  "questions": [
+    "e ink tablets",
+    "remarkable vs kindle scribe",
+    "digital note taking e-ink",
+    "paper-like display device",
+    "best e-ink writing tablet"
+  ],
+  "response": [
+    "ReMarkable focuses on writing experience, Kindle Scribe is an e-reader with note-taking!",
+    "E-ink is gentle on eyes but check if you need color or fast refresh."
+  ]
+},
+"category_221": {
+  "questions": [
+    "electric scooter brands",
+    "escooter commuting",
+    "mi scooter vs segway",
+    "range for electric scooter",
+    "scooter battery tips"
+  ],
+  "response": [
+    "Brands like Xiaomi, Ninebot (Segway) are popular. Check local laws for scooter riding!",
+    "Consider range, motor power, and build quality if commuting daily."
+  ]
+},
+"category_222": {
+  "questions": [
+    "smart fridge usage",
+    "fridge with screen",
+    "family hub by samsung",
+    "benefits of a smart fridge",
+    "food inventory tracking"
+  ],
+  "response": [
+    "Smart fridges show calendars, recipes, and can track groceries—pricey though!",
+    "Ensure you’ll actually use those smart features, or a regular fridge might suffice."
+  ]
+},
+"category_223": {
+  "questions": [
+    "heated tobacco vs vape",
+    "iqos vs e-cigarette",
+    "which is safer",
+    "nicotine alternatives",
+    "heat not burn device"
+  ],
+  "response": [
+    "Heated tobacco partially avoids combustion; vapes often use e-liquids. Both contain nicotine!",
+    "Health data is still evolving, but quitting altogether is safest."
+  ]
+},
+"category_224": {
+  "questions": [
+    "home security cameras",
+    "wireless camera brands",
+    "best cctv system",
+    "compare ring vs nest",
+    "cloud recording vs local"
+  ],
+  "response": [
+    "Arlo, Ring, Nest, and Eufy are top brands. Decide if you want subscription-based cloud storage!",
+    "Check resolution (1080p/4K) and field of view before buying."
+  ]
+},
+"category_225": {
+  "questions": [
+    "mechanical keyboards",
+    "switch types (red, blue, brown)",
+    "custom keyboard build",
+    "rgb keyboard hype",
+    "typing feel differences"
+  ],
+  "response": [
+    "Red switches are linear and quiet-ish, Blue are clicky, Brown are tactile but quieter!",
+    "Building a custom board can be fun—lube switches, pick keycaps, etc."
+  ]
+},
+"category_226": {
+  "questions": [
+    "high wattage vape mods",
+    "sub ohm vaping",
+    "big vapor clouds",
+    "advanced vaping device",
+    "cloud chasing gear"
+  ],
+  "response": [
+    "Sub-ohm tanks and high-power mods produce large clouds but drain e-liquid fast!",
+    "Ensure battery safety knowledge: proper batteries and ohms law!"
+  ]
+},
+"category_227": {
+  "questions": [
+    "wireless charging tech",
+    "qi standard phones",
+    "magnetic chargers vs qi",
+    "fast wireless charging",
+    "charging pads"
+  ],
+  "response": [
+    "Most modern phones support Qi. Power rates vary (5W to 15W+).",
+    "MagSafe is Apple’s version (uses Qi but with magnets for alignment)."
+  ]
+},
+"category_228": {
+  "questions": [
+    "chromebook vs windows laptop",
+    "chrome os pros and cons",
+    "budget school laptop",
+    "lightweight web-based laptop",
+    "offline usage chromebook"
+  ],
+  "response": [
+    "Chromebooks are great if you mainly use Google apps and web-based tools!",
+    "If you need heavy software like Photoshop, Windows or Mac might be better."
+  ]
+},
+"category_229": {
+  "questions": [
+    "apple pro display xdr info",
+    "high-end monitors",
+    "compare xdr to other 4k",
+    "is apple display worth it",
+    "creative workflow monitors"
+  ],
+  "response": [
+    "Apple Pro Display XDR is super pricey but offers extreme color accuracy and brightness!",
+    "Professionals in video editing or photo might find it worth the cost."
+  ]
+},
+"category_230": {
+  "questions": [
+    "soda addiction",
+    "sugary drinks vs health",
+    "quitting soft drinks",
+    "diet soda better?",
+    "alternatives to soda"
+  ],
+  "response": [
+    "Soft drinks can contribute to weight gain and tooth decay. Water or unsweetened tea is healthier!",
+    "Diet soda lacks sugar but still may foster sweet cravings."
+  ]
+},
+"category_231": {
+  "questions": [
+    "desktop vs laptop",
+    "pc tower or notebook",
+    "which is better for gaming",
+    "upgrading desktop parts",
+    "mobility or power"
+  ],
+  "response": [
+    "Desktops are easier to upgrade and can offer more performance. Laptops are portable!",
+    "Choose based on whether you need on-the-go convenience or raw power at home."
+  ]
+},
+"category_232": {
+  "questions": [
+    "vr treadmill",
+    "infinite walking solutions",
+    "omni directional treadmill",
+    "gaming immersion device",
+    "vr movement gear"
+  ],
+  "response": [
+    "Devices like the Virtuix Omni let you physically walk in VR games—still a niche product!",
+    "They’re expensive and large, but very immersive if you have space."
+  ]
+},
+"category_233": {
+  "questions": [
+    "bluetooth speaker info",
+    "portable speakers compare",
+    "best small speaker",
+    "jbl or bose",
+    "sony vs anker speakers"
+  ],
+  "response": [
+    "JBL, Bose, Sony, and Anker all have solid portable options at different price points!",
+    "Check battery life, waterproof rating, and audio quality in reviews."
+  ]
+},
+"category_234": {
+  "questions": [
+    "google docs vs microsoft word",
+    "online doc editing",
+    "word processing software",
+    "free vs paid office tools",
+    "collaboration features"
+  ],
+  "response": [
+    "Google Docs is free and great for real-time collaboration, Word is more feature-rich offline!",
+    "Choose based on your environment—Docs is web-based, Word integrates with Microsoft 365."
+  ]
+},
+"category_235": {
+  "questions": [
+    "smart thermostat brand",
+    "nest vs ecobee",
+    "energy saving tips",
+    "hvac automation",
+    "temperature scheduling"
+  ],
+  "response": [
+    "Nest and Ecobee both learn your habits, saving energy if used properly!",
+    "Check if it’s compatible with your HVAC system and voice assistant."
+  ]
+},
+"category_236": {
+  "questions": [
+    "monitor calibration",
+    "accurate color display",
+    "calibration tools",
+    "editing photos color fidelity",
+    "spyder or x-rite device"
+  ],
+  "response": [
+    "A hardware calibrator ensures your screen shows true colors—important for photo/video editing!",
+    "Spyder and X-Rite are popular calibration tool brands."
+  ]
+},
+"category_237": {
+  "questions": [
+    "backlit keyboard vs normal",
+    "typing in low light",
+    "rgb lighting hype",
+    "benefit of backlit keys",
+    "customizing keyboard lights"
+  ],
+  "response": [
+    "Backlit keys help in dim settings, and RGB can be aesthetic or highlight key zones!",
+    "Some mechanical keyboards let you program per-key lighting."
+  ]
+},
+"category_238": {
+  "questions": [
+    "phone case necessity",
+    "best phone case brands",
+    "protective cases vs slim",
+    "otterbox or spigen",
+    "using phone with no case"
+  ],
+  "response": [
+    "A good case protects from drops; more rugged cases add bulk but better shock absorption!",
+    "If you’re careful and want the phone’s design, a slim or no case might be your style."
+  ]
+},
+"category_239": {
+  "questions": [
+    "blue light filter glasses",
+    "eye strain from screens",
+    "computer glasses usage",
+    "filtering uv or blue light",
+    "better sleep after screens"
+  ],
+  "response": [
+    "Some find relief using blue light glasses if they stare at screens long hours!",
+    "Many devices now offer Night Shift or similar to reduce blue light emission."
+  ]
+},
+"category_240": {
+  "questions": [
+    "uv sterilizers for phone",
+    "phone cleaning device",
+    "disinfect phone from germs",
+    "uv phone box",
+    "are uv cleaners safe"
+  ],
+  "response": [
+    "UV sterilizers claim to kill bacteria on phone surfaces—some users find them handy.",
+    "Ensure you follow manufacturer guidelines and keep phone surfaces relatively clean."
+  ]
+},
+"category_241": {
+  "questions": [
+    "smart lamp usage",
+    "philips hue vs lifx",
+    "app controlled lights",
+    "home automation lighting",
+    "color changing bulbs"
+  ],
+  "response": [
+    "Smart bulbs let you schedule on/off or color changes—great for ambiance or energy savings!",
+    "Check your ecosystem: Google, Alexa, or HomeKit for easy control."
+  ]
+},
+"category_242": {
+  "questions": [
+    "pc water cooling info",
+    "liquid cooled pc",
+    "aio cooler vs custom loop",
+    "is water cooling better",
+    "cpu/gpu temps"
+  ],
+  "response": [
+    "Liquid cooling can reduce temps and noise, but more maintenance than air cooling!",
+    "AIO (All-in-One) is easier to install than a full custom loop."
+  ]
+},
+"category_243": {
+  "questions": [
+    "camera drone laws",
+    "where can I fly a drone",
+    "drone regulations",
+    "registering a drone",
+    "faa drone rules"
+  ],
+  "response": [
+    "In the US, drones over 0.55 lbs must be registered with the FAA. Check local airspace restrictions!",
+    "Never fly near airports, crowds, or higher than 400 ft without permission."
+  ]
+},
+"category_244": {
+  "questions": [
+    "gaming mouse differences",
+    "wired vs wireless mouse",
+    "dpi or cpi meaning",
+    "extra mouse buttons usage",
+    "rgb mouse options"
+  ],
+  "response": [
+    "High DPI can help with faster cursor movement; adjustable settings let you tweak sensitivity!",
+    "Wireless tech has improved—latency is minimal on modern gaming mice."
+  ]
+},
+"category_245": {
+  "questions": [
+    "portable power bank",
+    "phone charger on the go",
+    "best power bank capacity",
+    "fast charging power bank",
+    "lightweight battery pack"
+  ],
+  "response": [
+    "Look for 10,000–20,000 mAh if you want multiple recharges, and check fast charge support!",
+    "Some even have USB-C PD for quick phone or laptop top-ups."
+  ]
+},
+"category_246": {
+  "questions": [
+    "programming laptop requirements",
+    "dev machine specs",
+    "is 8gb ram enough",
+    "coding with mac or windows",
+    "best laptop for programmers"
+  ],
+  "response": [
+    "At least 8 GB RAM for light dev; 16 GB+ is better for heavier tasks or multiple VMs!",
+    "OS preference is personal; many devs like macOS for Unix-like environment or Windows WSL."
+  ]
+},
+"category_247": {
+  "questions": [
+    "apple watch faces",
+    "customizing watch face",
+    "watch face complications",
+    "third party watch faces",
+    "which watch face is best"
+  ],
+  "response": [
+    "Apple Watch allows changing faces in the Watch app, add complications for quick info!",
+    "Officially, Apple doesn’t allow fully custom third-party watch faces—just variations."
+  ]
+},
+"category_248": {
+  "questions": [
+    "windows 11 new features",
+    "update windows 10 to 11",
+    "windows 11 requirements",
+    "start menu changes",
+    "is windows 11 stable"
+  ],
+  "response": [
+    "Windows 11 has a new centered Start Menu, enhanced security, and updated visuals!",
+    "TPM 2.0 is required, so check if your PC meets minimum specs."
+  ]
+},
+"category_249": {
+  "questions": [
+    "bluetooth low energy usage",
+    "ble vs classic bluetooth",
+    "battery life ble",
+    "iot devices bluetooth",
+    "connecting ble sensors"
+  ],
+  "response": [
+    "BLE uses less power, great for wearables and sensors that transmit small data!",
+    "Range is typically short—designed for close proximity devices."
+  ]
+},
+"category_250": {
+  "questions": [
+    "mac shortcuts",
+    "useful mac keyboard shortcuts",
+    "productivity on macos",
+    "finder tips",
+    "command line on mac"
+  ],
+  "response": [
+    "Cmd + Space for Spotlight, Cmd + Shift + 4 for partial screenshot, etc.!",
+    "You can also use Terminal to navigate via command line if needed."
+  ]
+},
+"category_251": {
+  "questions": [
+    "car phone holder",
+    "mounting phone in car",
+    "best dash mount",
+    "magnetic phone mount",
+    "air vent or suction mount"
+  ],
+  "response": [
+    "Check if you prefer suction on windshield or air vent mount. Magnetic or clamp style both exist!",
+    "Ensure it doesn’t block your driving view or key controls."
+  ]
+},
+"category_252": {
+  "questions": [
+    "gaming headset brands",
+    "7.1 surround headphones",
+    "chat vs game audio",
+    "wireless gaming headset",
+    "comfort for long gaming"
+  ],
+  "response": [
+    "Brands like HyperX, SteelSeries, Logitech, and Razer are popular!",
+    "Check if you want simulated surround, mic quality, and comfort for marathon sessions."
+  ]
+},
+"category_253": {
+  "questions": [
+    "book vs kindle",
+    "ereader pros and cons",
+    "paperwhite vs oasis",
+    "physical books or ebooks",
+    "why buy kindle"
+  ],
+  "response": [
+    "Ereaders are lighter, store many books, and have adjustable fonts. Physical books offer tangibility!",
+    "Kindle Paperwhite is a sweet spot for features vs cost; Oasis is premium."
+  ]
+},
+"category_254": {
+  "questions": [
+    "should I vape indoors",
+    "vaping at home",
+    "secondhand vapor",
+    "house odor from vaping",
+    "vaping courtesy indoors"
+  ],
+  "response": [
+    "Some vapor residue can build up; it’s not as strong as cigarette smoke but still can linger!",
+    "Be considerate of others who might dislike the smell or be sensitive."
+  ]
+},
+"category_255": {
+  "questions": [
+    "smart garage opener",
+    "control garage via phone",
+    "chamberlain myq info",
+    "retrofit old garage door",
+    "homekit garage integration"
+  ],
+  "response": [
+    "Devices like myQ let you open/close garage doors remotely and check status!",
+    "Check for compatibility with your existing motor or if you need an adapter."
+  ]
+},
+"category_256": {
+  "questions": [
+    "satellite internet tips",
+    "starlink vs hughesnet",
+    "rural internet options",
+    "latency in satellite net",
+    "weather interference"
+  ],
+  "response": [
+    "Starlink offers lower latency than old satellites, but weather can still affect signal!",
+    "Check coverage maps to ensure your area is supported."
+  ]
+},
+"category_257": {
+  "questions": [
+    "house party gadgets",
+    "smart speakers for music",
+    "mini projector usage",
+    "party lighting tech",
+    "wireless mic karaoke"
+  ],
+  "response": [
+    "Smart speakers handle music streaming easily, mini projectors for movie nights or visuals!",
+    "LED light strips or disco bulbs add party ambiance."
+  ]
+},
+"category_258": {
+  "questions": [
+    "360 cameras",
+    "vr video recording",
+    "best 360 cam brand",
+    "insta360 vs gopro max",
+    "virtual tours creation"
+  ],
+  "response": [
+    "360 cams capture all around you—great for VR content or interactive tours!",
+    "Insta360 and GoPro both excel—compare stabilization and editing software."
+  ]
+},
+"category_259": {
+  "questions": [
+    "usb standards difference",
+    "usb-c vs micro usb",
+    "thunderbolt vs usb-c",
+    "transfer speed info",
+    "charging vs data cable"
+  ],
+  "response": [
+    "USB-C is reversible and supports higher power/data speeds; Thunderbolt is even faster but uses USB-C port!",
+    "Check cable specs—some only do power, others handle high-speed data."
+  ]
+},
+"category_260": {
+  "questions": [
+    "robot mop usage",
+    "best robotic floor mopper",
+    "combo vacuum and mop",
+    "cleaning tile floors easily",
+    "auto home cleaning"
+  ],
+  "response": [
+    "Brands like iRobot Braava or Roborock handle mopping tasks automatically!",
+    "Works best on smooth surfaces—check if it can avoid carpets or set no-mop zones."
+  ]
+},
+"category_261": {
+  "questions": [
+    "wireless charging stands",
+    "angle adjustable charger",
+    "2-in-1 phone and watch charger",
+    "airpods and iphone station",
+    "nightstand charging setup"
+  ],
+  "response": [
+    "Stands let you see notifications easily while charging. Some also handle Apple Watch or AirPods.",
+    "Check power output (7.5W for iPhone, 10W or 15W for other Qi devices) for full speed."
+  ]
+},
+"category_262": {
+  "questions": [
+    "led vs oled tv",
+    "which tv panel is better",
+    "lcd vs qled vs oled",
+    "tv contrast ratio",
+    "burn in concerns"
+  ],
+  "response": [
+    "OLED has perfect blacks, great contrast, but can risk burn-in if static images are left too long!",
+    "QLED (LED-based) is brighter generally, with no real burn-in risk, but not as perfect black."
+  ]
+},
+"category_263": {
+  "questions": [
+    "air quality monitors",
+    "home pollution detection",
+    "pm2.5 sensors",
+    "co2 or voc measuring",
+    "smart air monitor"
+  ],
+  "response": [
+    "Look for devices measuring PM2.5, CO2, humidity, temperature—like Awair or IQAir monitor!",
+    "Great for spotting when to ventilate or run an air purifier."
+  ]
+},
+"category_264": {
+  "questions": [
+    "soundbar vs home theater",
+    "better tv audio solution",
+    "5.1 vs 2.1 system",
+    "dolby atmos setup",
+    "wireless rear speakers"
+  ],
+  "response": [
+    "A soundbar is simpler, less wiring. Home theater surround is more immersive but bigger setup!",
+    "Dolby Atmos adds overhead channels for 3D sound if your system supports it."
+  ]
+},
+"category_265": {
+  "questions": [
+    "desktop vape rigs",
+    "tabletop vaporizer",
+    "volcano vape usage",
+    "better than portable e-cig",
+    "large device for home vaping"
+  ],
+  "response": [
+    "Desktop vaporizers like Volcano provide more consistent heat, often used for herbs!",
+    "They’re not for nicotine e-liquid—more for dry herb or concentrate solutions."
+  ]
+},
+"category_266": {
+  "questions": [
+    "typing speed improvement",
+    "learn touch typing",
+    "typing tutor software",
+    "wpm practice",
+    "keyboard shortcuts"
+  ],
+  "response": [
+    "Use typing practice sites (Keybr, Typing.com) and maintain proper finger placement!",
+    "Focus on accuracy first, then build speed."
+  ]
+},
+"category_267": {
+  "questions": [
+    "home projector usage",
+    "projector vs tv",
+    "4k projector recommended",
+    "ultra short throw device",
+    "big screen home theater"
+  ],
+  "response": [
+    "Projectors can give you a huge screen, especially good in dim rooms!",
+    "Short throw/ultra short throw types need less distance from the wall."
+  ]
+},
+"category_268": {
+  "questions": [
+    "heated vape coil types",
+    "ceramic coil vs cotton",
+    "mesh coil benefits",
+    "long lasting coil",
+    "better flavor coil"
+  ],
+  "response": [
+    "Mesh coils heat more evenly, often better flavor. Ceramic can last longer, but wicking might be slower.",
+    "Always match coil ohms to your device’s power range."
+  ]
+},
+"category_269": {
+  "questions": [
+    "car bluetooth issues",
+    "car stereo phone pairing",
+    "in-car calls drop",
+    "music skipping in car",
+    "hands free not working"
+  ],
+  "response": [
+    "Update your phone’s OS and your car’s firmware if possible!",
+    "Sometimes re-pairing or deleting old devices helps fix glitchy connections."
+  ]
+},
+"category_270": {
+  "questions": [
+    "powerline adapters home network",
+    "ethernet through outlets",
+    "no wifi coverage solution",
+    "devolo or tp-link powerline",
+    "is powerline stable"
+  ],
+  "response": [
+    "Powerline adapters send data via electrical wiring, good if Wi-Fi is weak in some areas!",
+    "Performance depends on your home’s wiring quality—avoid extension cords."
+  ]
+},
+"category_271": {
+  "questions": [
+    "coffee vs tea caffeine",
+    "which has more caffeine",
+    "reduce coffee switch to tea",
+    "green tea benefits",
+    "black tea vs coffee strength"
+  ],
+  "response": [
+    "Coffee generally has more caffeine per cup; teas vary widely in caffeine levels!",
+    "Green tea has antioxidants, black tea is often stronger, but still less than coffee."
+  ]
+},
+"category_272": {
+  "questions": [
+    "modding a phone",
+    "rooting android pros and cons",
+    "custom rom benefits",
+    "jailbreaking iphone",
+    "risk of bricking device"
+  ],
+  "response": [
+    "Rooting or jailbreaking can unlock deeper customization but can void warranty or cause instability!",
+    "Back up data first and follow reputable guides if attempting."
+  ]
+},
+"category_273": {
+  "questions": [
+    "best phone camera for video",
+    "4k 60fps phone",
+    "vlog on smartphone",
+    "cinematic phone footage",
+    "stabilization phone tech"
+  ],
+  "response": [
+    "Flagships like iPhone or Galaxy S/Note often excel in video. Some can do 4k60 or 8k!",
+    "Lens stabilization (OIS) or software EIS helps smooth out shakes."
+  ]
+},
+"category_274": {
+  "questions": [
+    "desktop streaming setup",
+    "obs vs streamlabs",
+    "twitch streaming hardware",
+    "microphone for streaming",
+    "green screen usage"
+  ],
+  "response": [
+    "OBS is free and powerful; Streamlabs has user-friendly overlays!",
+    "Invest in a decent mic (dynamic or condenser) and good lighting if using a green screen."
+  ]
+},
+"category_275": {
+  "questions": [
+    "rechargeable batteries",
+    "nimh vs li-ion",
+    "aa rechargeable brand",
+    "battery charger tips",
+    "low self-discharge cells"
+  ],
+  "response": [
+    "Eneloop (NiMH) is popular for AA/AAA—holds charge well over time!",
+    "Li-ion is higher capacity but usually specialized shapes for devices, not standard AAs."
+  ]
+},
+"category_276": {
+  "questions": [
+    "smart mirror ideas",
+    "diy smart mirror",
+    "display weather in mirror",
+    "magic mirror software",
+    "raspberry pi mirror"
+  ],
+  "response": [
+    "Smart mirrors can show time, weather, news on a reflective surface!",
+    "Many use a Raspberry Pi + MagicMirror² software to power the display."
+  ]
+},
+"category_277": {
+  "questions": [
+    "retro gaming console",
+    "nes classic or snes classic",
+    "mini consoles hype",
+    "old school nintendo",
+    "emulation vs official mini"
+  ],
+  "response": [
+    "Nintendo’s mini consoles are plug-and-play. Emulation on a Pi is more customizable!",
+    "Either way, classic games can be nostalgic fun."
+  ]
+},
+"category_278": {
+  "questions": [
+    "blu ray vs streaming",
+    "physical media dying",
+    "4k uhd disc quality",
+    "digital purchases vs discs",
+    "collecting dvds"
+  ],
+  "response": [
+    "Blu-ray (especially 4K UHD) often has higher bitrates and better audio than streaming!",
+    "Physical discs are good for collectors; streaming is convenient but can lose content if licenses expire."
+  ]
+},
+"category_279": {
+  "questions": [
+    "electric skateboard usage",
+    "e-board commuting",
+    "best e-skate brands",
+    "boosted board alternative",
+    "safety gear for e-skate"
+  ],
+  "response": [
+    "E-skates can reach high speeds—helmet and pads strongly recommended!",
+    "Check local laws, battery range, and motor power for hills."
+  ]
+},
+"category_280": {
+  "questions": [
+    "headphone amp necessity",
+    "dac vs amp",
+    "audio setup pc",
+    "high impedance headphones",
+    "boost audio quality"
+  ],
+  "response": [
+    "If you have high-impedance headphones (250–600 ohms), an amp can help drive them properly!",
+    "A DAC can improve clarity if your onboard sound is noisy or lacking detail."
+  ]
+},
+  "category_281": {
+    "questions": [
+      "How to prepare a nutritious salad for beginners?",
+      "Any tips on picking fresh vegetables at the market?",
+      "Best dressing ideas for a healthy salad?",
+      "How do I store salad greens to keep them fresh?",
+      "What proteins can I add to my salad for extra flavor?"
+    ],
+    "response": [
+      "Consider leafy greens like spinach or kale, then add colorful veggies and a lean protein source!",
+      "A homemade vinaigrette (oil, vinegar, herbs) is usually healthier and tastier than store-bought."
+    , 
+      "Experiment with roasted veggies (e.g., sweet potato) and seeds or nuts for extra texture."
+    ]
+  },
+  "category_282": {
+    "questions": [
+      "Which phone brand currently offers the best camera?",
+      "How to get better photos from a budget phone?",
+      "Suggestions for affordable phones with good cameras?",
+      "Tips on night photography with smartphones?",
+      "Is Google Pixel still leading in camera software?"
+    ],
+    "response": [
+      "Flagship phones from Google, Apple, or Samsung typically excel at camera performance!",
+      "Use manual or pro modes for low-light shots, and always keep your lens clean."
+    , 
+      "Mid-range phones can impress nowadays—look for optical image stabilization if possible."
+    ]
+  
+  },
+  "category_283": {
+    "questions": [
+      "Ways to reduce or quit smoking?",
+      "Are nicotine patches effective?",
+      "Is vaping safer than traditional cigarettes?",
+      "Handling withdrawal symptoms when stopping smoking?",
+      "Where to find help for smoking cessation?"
+    ],
+    "response": [
+      "Consulting a health professional is a strong first step; they can suggest personalized strategies.",
+      "Nicotine patches, gum, or even prescription meds can help with cravings."
+    , 
+      "Behavioral support—like counseling or quit lines—often increases success rates."
+    ]
+  },
+  "category_284": {
+    "questions": [
+      "Best practices for hacking cough due to vaping?",
+      "Any recommended vape juice with less throat hit?",
+      "Tips on lowering nicotine to reduce harshness?",
+      "Is zero-nic vaping beneficial for quitting smoking?",
+      "What are the top mild-flavor e-liquids?"
+    ],
+    "response": [
+      "Lower nicotine and a smoother PG/VG ratio can reduce coughing; some prefer 50/50 or higher VG.",
+      "If you're coughing a lot, consider checking coil wattage or trying an alternative method altogether."
+    , 
+      "Consult a doctor if persistent cough persists—vaping can still irritate the respiratory system."
+    ]
+  },
+  "category_285": {
+    "questions": [
+      "How to start learning a new language effectively?",
+      "Any recommended apps for language practice?",
+      "Is immersion the best way to gain fluency?",
+      "Tips on building a habit of daily language study?",
+      "What’s the difference between self-study vs. group classes?"
+    ],
+    "response": [
+      "Apps like Duolingo or Babbel help with gamified learning, but speak with native speakers, too!",
+      "Consistent daily practice is key—short sessions add up over time."
+    , 
+      "If immersion isn’t feasible, watch shows or read articles in the target language."
+    ]
+  },
+  "category_286": {
+    "questions": [
+      "Any advice on becoming a better driver?",
+      "How do I maintain my car tires?",
+      "When to replace brake pads?",
+      "Checklist for a basic car tune-up?",
+      "Should I learn manual transmission?"
+    ],
+    "response": [
+      "Regularly check tire pressure and rotate them for even wear. Proper tire care can improve fuel efficiency!",
+      "If your brakes squeal or feel less responsive, it’s time to inspect pads."
+    , 
+      "Manual driving can be fun and give better control, but depends on your preference and region."
+    ]
+  },
+  "category_287": {
+    "questions": [
+      "How to begin painting as a hobby?",
+      "Which paints should I start with—acrylic or watercolor?",
+      "Tips for blending colors on canvas?",
+      "Essential brushes for beginners in painting?",
+      "What are some easy beginner projects?"
+    ],
+    "response": [
+      "Acrylics dry fast and are forgiving; watercolors demand more technique but have a unique flow!",
+      "Start small—paint simple still-lifes or abstract shapes, focusing on color mixing."
+    , 
+      "Quality brushes matter; synthetic brushes are fine for starting out."
+    ]
+  },
+  "category_288": {
+    "questions": [
+      "How to do basic website security?",
+      "Is SSL necessary for every site?",
+      "Ways to protect against hacking attempts?",
+      "What is a firewall for web hosting?",
+      "Difference between HTTP and HTTPS?"
+    ],
+    "response": [
+      "At minimum, use HTTPS to encrypt data in transit—most hosts now provide free SSL certs.",
+      "Keep plugins and software updated, use strong passwords, and limit login attempts."
+    , 
+      "A WAF (Web Application Firewall) can help filter malicious traffic."
+    ]
+  },
+  "category_289": {
+    "questions": [
+      "Best ways to handle toddler tantrums?",
+      "How do I encourage positive behavior in children?",
+      "Any discipline method that’s effective but gentle?",
+      "Balancing work and family time?",
+      "Tips on bonding with your child daily?"
+    ],
+    "response": [
+      "Consistency and clear communication are crucial—kids respond well to stable routines!",
+      "Positive reinforcement (praise, rewards) often works better than punishment."
+    , 
+      "Quality time, even short, can strengthen your connection significantly."
+    ]
+  },
+  "category_290": {
+    "questions": [
+      "What is yoga flow?",
+      "Difference between vinyasa and hatha yoga?",
+      "How to choose the right yoga mat?",
+      "Can yoga help back pain?",
+      "Safety tips for yoga beginners?"
+    ],
+    "response": [
+      "Vinyasa emphasizes continuous flow between poses; hatha is slower-paced focusing on posture holding.",
+      "Use a non-slip mat with decent thickness—like 4-6mm—for joint comfort."
+    , 
+      "If you have back pain, consult an instructor to modify poses safely."
+    ]
+  },
+  "category_291": {
+    "questions": [
+      "How to meal prep for a week?",
+      "Any time-saving cooking strategies?",
+      "Choosing containers for meal prep?",
+      "Budget-friendly ingredients for batch cooking?",
+      "Ideas to keep meal preps fresh?"
+    ],
+    "response": [
+      "Cook staples in bulk (rice, pasta, protein), then vary spices or sauces daily!",
+      "Store items in airtight containers—glass is great for reheating."
+    , 
+      "Focus on meals you actually enjoy to avoid food waste or boredom."
+    ]
+  },
+  "category_292": {
+    "questions": [
+      "What is crossfit training?",
+      "Common crossfit injuries?",
+      "Is crossfit suitable for beginners?",
+      "Equipment needed for crossfit?",
+      "Crossfit vs. traditional weightlifting?"
+    ],
+    "response": [
+      "Crossfit combines weightlifting, cardio, and gymnastics in high-intensity workouts!",
+      "Beginners should scale movements carefully to reduce injury risks."
+    , 
+      "Consider checking local Crossfit boxes for coaching on proper form."
+    ]
+  },
+  "category_293": {
+    "questions": [
+      "How to plan a budget trip across Europe?",
+      "Best time to visit multiple countries cheaply?",
+      "Tips for using rail passes effectively?",
+      "Hostel vs. Airbnb cost comparison?",
+      "Essentials to pack for a backpacking tour?"
+    ],
+    "response": [
+      "Off-season travel (spring/fall) often saves money on flights/accommodations.",
+      "Eurail or Interrail passes can be cost-effective for train lovers!"
+    , 
+      "Pack light—carry-on only if possible to avoid baggage fees."
+    ]
+  },
+  "category_294": {
+    "questions": [
+      "Difference between green tea and black tea?",
+      "How to brew tea properly?",
+      "Herbal tea benefits?",
+      "Recommended temperature for specific teas?",
+      "Is loose leaf tea better than tea bags?"
+    ],
+    "response": [
+      "Green tea is less oxidized, black tea fully oxidized, changing flavor and caffeine content!",
+      "Steep times vary: around 2-3 min for green, 3-5 min for black, or you’ll risk bitterness."
+    , 
+      "Loose leaves generally yield richer flavor; tea bags are more convenient though."
+    ]
+  },
+  "category_295": {
+    "questions": [
+      "Which is better: gaming PC or console?",
+      "Is PC gaming more expensive?",
+      "Exclusive games on consoles vs PC libraries?",
+      "How to build a budget gaming rig?",
+      "Should I buy a prebuilt PC or assemble one?"
+    ],
+    "response": [
+      "PC gaming can be costlier upfront but offers flexibility in upgrading and a huge game library!",
+      "Consoles are simpler—just plug and play, with exclusives like PlayStation’s or Nintendo’s titles."
+    , 
+      "Prebuilt is easy, but building your own can save money and tailor performance."
+    ]
+  },
+  "category_296": {
+    "questions": [
+      "Tips for learning guitar chords?",
+      "Any recommended guitar apps?",
+      "Best guitar for a beginner?",
+      "Acoustic vs electric: which is easier?",
+      "Practice routine for quick improvement?"
+    ],
+    "response": [
+      "Start with open chords (C, G, D, Em), build finger strength slowly!",
+      "YouTube lessons or apps like Yousician can guide you step by step."
+    , 
+      "Acoustic is straightforward but can hurt fingers initially; electric is easier on fingertips but needs an amp."
+    ]
+  },
+  "category_297": {
+    "questions": [
+      "What is bullet journaling?",
+      "How do I set up a bullet journal?",
+      "Helpful bullet journal spreads?",
+      "Is digital bullet journaling an option?",
+      "Maintaining consistency in journaling?"
+    ],
+    "response": [
+      "A bullet journal is a DIY planner with short bullet points and symbols for tasks, events, etc.",
+      "Key spreads often include monthly logs, habit trackers, and future logs."
+    , 
+      "Digital versions exist (e.g., Notion, OneNote), but some prefer pen-and-paper’s tactile feel."
+    ]
+  },
+  "category_298": {
+    "questions": [
+      "How to produce electronic music at home?",
+      "Recommended DAW for beginners?",
+      "Difference between FL Studio, Ableton Live, Logic?",
+      "Basic gear for EDM production?",
+      "Free samples or loops sources?"
+    ],
+    "response": [
+      "FL Studio is beginner-friendly, Ableton suits live performance, Logic is Mac-only but robust!",
+      "Start with a simple MIDI keyboard and good headphones or monitors."
+    , 
+      "Sites like Splice or Looperman offer free/paid samples; read license terms carefully."
+    ]
+  },
+  "category_299": {
+    "questions": [
+      "Is e-ink or LCD better for an e-reader?",
+      "Kindle vs. Kobo differences?",
+      "Does color e-ink exist?",
+      "How to sideload books on e-readers?",
+      "Recommended PDF reading devices?"
+    ],
+    "response": [
+      "E-ink is gentle on eyes, ideal for long reading sessions—LCD can strain eyes quicker.",
+      "Kobo is flexible with formats (like ePub), Kindle is tied into Amazon’s ecosystem."
+    , 
+      "Color e-ink does exist but less common and pricier than black-and-white e-ink."
+    ]
+  },
+  "category_300": {
+    "questions": [
+      "Steps to building mental toughness?",
+      "Handling adversity in personal growth?",
+      "Daily affirmations—do they help?",
+      "Balancing empathy with resilience?",
+      "Overcoming negative self-talk?"
+    ],
+    "response": [
+      "Set small challenges regularly so you adapt to discomfort and become more resilient.",
+      "Acknowledge your emotions but focus on actionable steps forward."
+    , 
+      "Affirmations can help if used consistently and backed by real effort."
+    ]
+  },
+  "category_301": {
+    "questions": [
+      "Comparing classical dance forms worldwide?",
+      "Is ballet the toughest dance style?",
+      "Famous traditional dances in Asia?",
+      "How to get into dance if I’m a beginner?",
+      "Do I need specific attire for classical dance?"
+    ],
+    "response": [
+      "Ballet, Kathak, and other classical dances require discipline and years of training!",
+      "Start with beginner classes or workshops; proper footwear/clothing often is mandatory."
+    , 
+      "Each region has unique traditions—like Tinikling in the Philippines or Peking Opera dance in China."
+    ]
+  },
+  "category_302": {
+    "questions": [
+      "What does minimalism lifestyle entail?",
+      "How to declutter effectively?",
+      "Is minimalism only about owning less?",
+      "Balancing minimalism with family life?",
+      "Minimalist approach to technology usage?"
+    ],
+    "response": [
+      "Minimalism is about focusing on what adds value, removing what doesn’t!",
+      "Regular decluttering sessions and mindful consumption help maintain it."
+    , 
+      "It’s not just about fewer things—also about mental clarity and simpler living."
+    ]
+  },
+  "category_303": {
+    "questions": [
+      "Differences between microservices and monoliths?",
+      "Best languages for microservices architecture?",
+      "Is Docker necessary for microservices?",
+      "Scaling microservices in the cloud?",
+      "Complexity in orchestrating multiple services?"
+    ],
+    "response": [
+      "Microservices break an app into small, independent services, easier to scale but more complex to manage!",
+      "Docker or containers help isolate each service; orchestrators like Kubernetes handle scaling."
+    , 
+      "Polyglot approach is common—each service can use the most fitting language or framework."
+    ]
+  },
+  "category_304": {
+    "questions": [
+      "Should I invest in cryptocurrency now?",
+      "Basics of blockchain technology?",
+      "What’s DeFi (decentralized finance)?",
+      "Is Bitcoin still a good choice?",
+      "Risks of altcoins or meme coins?"
+    ],
+    "response": [
+      "Crypto is volatile—only invest what you can afford to lose and do thorough research!",
+      "Bitcoin is the flagship, but many altcoins have different use cases or hype-based value."
+    , 
+      "DeFi aims to replicate traditional financial instruments in a decentralized context."
+    ]
+  },
+  "category_305": {
+    "questions": [
+      "Are electric cars cheaper to maintain?",
+      "Popular EV charging networks?",
+      "Range anxiety—how to handle it?",
+      "Tesla vs. other EV brands?",
+      "Do EVs need special insurance?"
+    ],
+    "response": [
+      "EVs generally have fewer moving parts, so maintenance can be lower but battery care is crucial!",
+      "Chargers vary: Tesla Superchargers, Electrify America, or local networks—plan routes ahead."
+    , 
+      "Insurance depends on location; EV-specific coverage might cost more or less depending on the model."
+    ]
+  },
+  "category_306": {
+    "questions": [
+      "Can I do home brewing coffee like a pro?",
+      "Which beans are best for espresso?",
+      "Grind size for a French press?",
+      "Roasting coffee beans at home, is it possible?",
+      "Storing coffee to retain freshness?"
+    ],
+    "response": [
+      "Fresh whole beans, correct grind size, and consistent water temperature are key!",
+      "French press needs coarse grind; espresso is fine. Burr grinders ensure consistent particle size."
+    , 
+      "Roasting at home can be done with specialized roasters or even a popcorn popper."
+    ]
+  },
+  "category_307": {
+    "questions": [
+      "Overcoming fear of public speaking?",
+      "Effective ways to practice speeches?",
+      "How to handle stage fright physically?",
+      "Structuring a compelling presentation?",
+      "Importance of body language on stage?"
+    ],
+    "response": [
+      "Rehearse thoroughly, use deep breathing, and visualize success before stepping on stage!",
+      "Start small with friends or local clubs (like Toastmasters) to build confidence."
+    , 
+      "A clear structure (intro, body, conclusion) keeps audiences engaged and you on track."
+    ]
+  },
+  "category_308": {
+    "questions": [
+      "What is 3D printing used for?",
+      "Different 3D printer types: FDM vs SLA?",
+      "Designing your own models software?",
+      "Printing with plastics vs resin?",
+      "Can I 3D print metal at home?"
+    ],
+    "response": [
+      "3D printing helps prototypes, small parts, hobby items—FDM is common for plastic filaments!",
+      "For resin-based prints, SLA yields finer detail but can be messier."
+    , 
+      "Metal printing is possible but expensive, usually done in specialized industrial machines."
+    ]
+  },
+  "category_309": {
+    "questions": [
+      "Home bar setup suggestions?",
+      "Must-have tools for cocktails?",
+      "Basic drink recipes for hosting?",
+      "Fancy glassware or simple tumblers?",
+      "Non-alcoholic options for guests?"
+    ],
+    "response": [
+      "Invest in a shaker, jigger, strainer, bar spoon, and a selection of base spirits!",
+      "Mocktails are on the rise—fresh juices, syrups, and garnishes can be creative."
+    , 
+      "Glass shapes can enhance aroma; for casual entertaining, a few multipurpose glasses suffice."
+    ]
+  },
+  "category_310": {
+    "questions": [
+      "Any strategies for consistent workouts?",
+      "Avoiding gym burnout?",
+      "Finding motivation for daily exercise?",
+      "Home workouts vs gym membership?",
+      "Tracking progress effectively?"
+    ],
+    "response": [
+      "Set realistic goals and vary routines to prevent boredom—mix cardio, strength, flexibility!",
+      "Use a fitness app or diary to track improvements and stay motivated."
+    , 
+      "Recovery (proper sleep, rest days) is just as important as the workouts."
+    ]
+  },
+  "category_311": {
+    "questions": [
+      "Best budget coding laptop?",
+      "Does RAM matter more than CPU for programming?",
+      "Coding on a Chromebook feasible?",
+      "Linux environment vs Windows for dev?",
+      "Choosing screen size for dev work?"
+    ],
+    "response": [
+      "At least 8GB RAM for smaller projects; 16GB+ if you do heavier tasks or multiple Docker containers!",
+      "A 14-inch or larger screen can help with code readability, but portability might matter to you."
+    , 
+      "Chromebooks can do coding via Linux containers or web IDEs, but might be limited offline."
+    ]
+  },
+  "category_312": {
+    "questions": [
+      "What’s journaling therapy?",
+      "Benefits of writing daily reflections?",
+      "Types of journaling methods?",
+      "Digital vs paper journaling debate?",
+      "Handling sensitive emotions while journaling?"
+    ],
+    "response": [
+      "Therapeutic journaling helps process thoughts, reduce stress, gain clarity on personal issues!",
+      "Some people prefer bullet journaling, gratitude journaling, or free writing daily."
+    , 
+      "A locked diary (physical or password-protected app) can ensure privacy for deeper topics."
+    ]
+  },
+  "category_313": {
+    "questions": [
+      "Learning to cook for one person?",
+      "Minimizing food waste as a single cook?",
+      "Best small portion recipes?",
+      "Budget meals that are still healthy?",
+      "Is meal prepping feasible for singles?"
+    ],
+    "response": [
+      "Focus on recipes that scale down well—soups, stir-fries, omelets, etc.",
+      "Freeze leftovers in small containers to avoid monotony and waste."
+    , 
+      "Meal prep still works: just reduce the portion sizes so you’re not drowning in extra food."
+    ]
+  },
+  "category_314": {
+    "questions": [
+      "Is crocheting easier than knitting?",
+      "What’s a good crochet hook size for beginners?",
+      "Any recommended yarn types?",
+      "How do I read crochet patterns?",
+      "Speed crocheting tips?"
+    ],
+    "response": [
+      "Crochet has one hook vs two needles in knitting—some find it simpler to learn!",
+      "Start with a medium worsted-weight yarn and about a 5mm hook."
+    , 
+      "Practice reading abbreviations (sc, dc, hdc) to follow patterns effectively."
+    ]
+  },
+  "category_315": {
+    "questions": [
+      "Basics of volunteering at animal shelters?",
+      "Can I foster pets short-term?",
+      "Requirements for wildlife conservation volunteering?",
+      "Fundraising for animal charities?",
+      "Is pet adoption better than buying?"
+    ],
+    "response": [
+      "Shelters often need help cleaning, feeding, socializing animals—check volunteer age policies!",
+      "Fostering can free up shelter space and help animals adjust to home environments."
+    , 
+      "Adopting from a shelter generally saves a life; it’s a huge help to the overpopulation crisis."
+    ]
+  },
+  "category_316": {
+    "questions": [
+      "How to create effective content marketing?",
+      "Importance of SEO in content strategy?",
+      "Best length for blog articles?",
+      "Should I invest in video content?",
+      "Measuring ROI on content marketing?"
+    ],
+    "response": [
+      "High-quality, consistent content that answers user needs can rank well and build trust!",
+      "Video is booming—short clips for social media or detailed tutorials on YouTube."
+    , 
+      "Track metrics like engagement, conversions, and time on page for ROI insights."
+    ]
+  },
+  "category_317": {
+    "questions": [
+      "Origami basics for a beginner?",
+      "What paper is best for origami?",
+      "Folding tips to avoid creases in the wrong places?",
+      "Can I use regular printer paper for practice?",
+      "Advanced origami: is it extremely challenging?"
+    ],
+    "response": [
+      "Start with simple models like cranes, fox faces—thinner origami paper is easier to fold precisely!",
+      "Printer paper is okay for practice but can be stiff for complex folds."
+    , 
+      "Advanced pieces can have hundreds of folds—patience is key!"
+    ]
+  },
+  "category_318": {
+    "questions": [
+      "Beginner tips for cross-stitch?",
+      "What’s the difference between cross-stitch and embroidery?",
+      "Thread types for cross-stitch projects?",
+      "Hoop usage and tension guidance?",
+      "How to follow cross-stitch patterns accurately?"
+    ],
+    "response": [
+      "Cross-stitch is a form of counted-thread embroidery using X-shaped stitches on evenweave fabric.",
+      "DMC floss is popular. Use a hoop or frame to keep fabric taut for consistent stitches."
+    , 
+      "Marking off sections on the pattern helps avoid confusion or miscounting stitches."
+    ]
+  },
+  "category_319": {
+    "questions": [
+      "Setting up a home gym on a budget?",
+      "Must-have workout equipment for novices?",
+      "Are resistance bands effective?",
+      "Space-saving gym ideas?",
+      "When to invest in heavier equipment?"
+    ],
+    "response": [
+      "A few pairs of dumbbells, a mat, and resistance bands can cover many exercises!",
+      "Focus on bodyweight training first—then expand if you remain consistent."
+    , 
+      "If you’re serious about lifting heavy, a power rack or adjustable bench is next-level."
+    ]
+  },
+  "category_320": {
+    "questions": [
+      "What is bullet coffee?",
+      "Pros and cons of adding butter to coffee?",
+      "Keto-friendly coffee beverages?",
+      "Does bullet coffee aid weight loss?",
+      "How to brew bullet coffee properly?"
+    ],
+    "response": [
+      "Bullet coffee typically blends coffee with butter/MCT oil—popular in some keto circles!",
+      "Some say it boosts satiety, but watch total calorie intake if weight loss is your goal."
+    , 
+      "Blend in a blender for a frothy, latte-like texture."
+    ]
+  },
+  "category_321": {
+    "questions": [
+      "Options for eco-friendly packaging?",
+      "Is biodegradable better than recyclable?",
+      "Reducing plastic use in daily life?",
+      "Paper or plastic: which has lower carbon footprint?",
+      "Ways businesses can adopt green packaging?"
+    ],
+    "response": [
+      "Biodegradable might still need specific conditions to break down fully—choose carefully!",
+      "Encourage reusables and simpler packaging to cut waste at the source."
+    , 
+      "Paper can be heavier, meaning more transport energy—each approach has trade-offs."
+    ]
+  },
+  "category_322": {
+    "questions": [
+      "Key marketing funnels stages?",
+      "Awareness vs. consideration vs. conversion?",
+      "Tools for funnel tracking?",
+      "Nurturing leads through email sequences?",
+      "When to retarget potential customers?"
+    ],
+    "response": [
+      "Typical funnel: top (awareness), middle (evaluation), bottom (purchase). Some include loyalty too!",
+      "Retarget if visitors show interest but leave without purchase—using relevant ads or emails."
+    , 
+      "Email drip campaigns can nurture leads as they move from interest to purchase decision."
+    ]
+  },
+  "category_323": {
+    "questions": [
+      "Keto side effects or dangers?",
+      "Common keto mistakes?",
+      "Is 'keto flu' real?",
+      "How to manage electrolytes on keto?",
+      "When to cycle off keto?"
+    ],
+    "response": [
+      "Keto flu can happen—fatigue, headaches as your body adapts to low carbs. Stay hydrated, add electrolytes!",
+      "Check in with a healthcare provider if you have underlying conditions or plan a long-term keto lifestyle."
+    , 
+      "Cycling off can help some folks reset or manage cravings."
+    ]
+  },
+  "category_324": {
+    "questions": [
+      "Starting a side hustle effectively?",
+      "Which side hustle is easiest to begin?",
+      "Balancing a day job and side gig?",
+      "Freelancing vs. product-based hustle?",
+      "When to go full-time with a side hustle?"
+    ],
+    "response": [
+      "Pick something aligned with your skills/passions so it’s sustainable in your spare time!",
+      "Freelancing (writing, design, etc.) can be flexible; products require inventory/fulfillment."
+    , 
+      "If revenue and demand consistently grow, consider transitioning to full-time eventually."
+    ]
+  },
+  "category_325": {
+    "questions": [
+      "Basics of functional programming?",
+      "Is it better than OOP?",
+      "Languages that support functional style?",
+      "Pure functions vs. side effects?",
+      "Immutability benefits?"
+    ],
+    "response": [
+      "Functional programming focuses on pure functions, no side effects, and immutability—makes reasoning easier!",
+      "Haskell is purely functional, but Python/JS can do partial functional style too."
+    , 
+      "It’s not always better, just a different paradigm—context and project needs matter."
+    ]
+  },
+  "category_326": {
+    "questions": [
+      "How to practice daily gratitude?",
+      "Any journaling method for positivity?",
+      "Does gratitude improve mental health?",
+      "Sharing gratitude with loved ones?",
+      "Ideas to stay consistent in gratefulness?"
+    ],
+    "response": [
+      "Write 3 things you’re grateful for each morning or evening—it shifts focus to positives!",
+      "Some people prefer a gratitude jar: drop small notes daily to revisit later."
+    , 
+      "Yes, studies suggest gratitude practices can reduce stress and enhance well-being."
+    ]
+  },
+  "category_327": {
+    "questions": [
+      "Urban planning basics?",
+      "Car-centric vs. walkable cities debate?",
+      "Green spaces in urban areas importance?",
+      "Public transit improvements?",
+      "Mixed-use zoning benefits?"
+    ],
+    "response": [
+      "Walkable, transit-focused designs reduce congestion, pollution, and improve quality of life!",
+      "Mixed-use zoning allows housing, businesses, etc., in close proximity for convenience."
+    , 
+      "Green spaces help with recreation, temperature regulation, and biodiversity in cities."
+    ]
+  },
+  "category_328": {
+    "questions": [
+      "Comparing DSLR vs. mirrorless cameras?",
+      "Is full-frame necessary?",
+      "Beginner tips for manual mode?",
+      "Key lenses to invest in first?",
+      "Editing software suggestions for photos?"
+    ],
+    "response": [
+      "Mirrorless is lighter, often better autofocus for video; DSLR still has a huge lens ecosystem.",
+      "Full-frame can capture more detail/light; APS-C is cheaper but still good quality."
+    , 
+      "Lightroom or Capture One are popular for editing, but raw practice is essential."
+    ]
+  },
+  "category_329": {
+    "questions": [
+      "How to learn piano chords quickly?",
+      "Daily practice routine for new pianists?",
+      "Is an 88-key keyboard necessary?",
+      "Apps or courses for self-taught piano?",
+      "Reading sheet music vs. playing by ear?"
+    ],
+    "response": [
+      "Start with major and minor triads, practice them in different inversions!",
+      "A full 88 keys is nice, but smaller keyboards are okay for beginners on a budget."
+    , 
+      "Both reading music and ear training can benefit you—use apps like Flowkey or Simply Piano."
+    ]
+  },
+  "category_330": {
+    "questions": [
+      "Purpose of user stories in software dev?",
+      "Agile vs. Waterfall approach?",
+      "Scrum sprint length recommendations?",
+      "Common pitfalls in agile adoption?",
+      "How do I handle backlog grooming effectively?"
+    ],
+    "response": [
+      "Agile uses iterative development, delivering small increments. Sprints often last 2 weeks!",
+      "User stories keep focus on user needs rather than technical tasks alone."
+    , 
+      "Grooming the backlog regularly ensures top items are well-defined and ready for the next sprint."
+    ]
+  },
+  "category_331": {
+    "questions": [
+      "Best platform for building an e-commerce?",
+      "Shopify vs. WooCommerce vs. BigCommerce?",
+      "Handling shipping and taxes easily?",
+      "Essential plugins for online stores?",
+      "Increasing conversions in e-commerce?"
+    ],
+    "response": [
+      "Shopify is straightforward with hosting included; WooCommerce is flexible on WordPress!",
+      "Optimize product pages with good images, clear descriptions, and easy checkout flow."
+    , 
+      "Consider multi-currency and region-based shipping logic if targeting international customers."
+    ]
+  },
+  "category_332": {
+    "questions": [
+      "Essential saxophone practice tips?",
+      "Which sax type for a beginner?",
+      "Sheet music or improvisation focus?",
+      "Cleaning and maintenance for sax?",
+      "Jazz vs. classical sax differences?"
+    ],
+    "response": [
+      "Alto sax is common for beginners. Good embouchure and consistent practice develop tone quality!",
+      "Some prefer reading music early, others jump into improvisation—both approaches have merit."
+    , 
+      "Always swab inside after playing to prevent moisture buildup and potential damage."
+    ]
+  },
+  "category_333": {
+    "questions": [
+      "Event planning timeline for a wedding?",
+      "Vendor selection: how far in advance?",
+      "DIY decor vs. hiring a professional?",
+      "Budget-friendly wedding tips?",
+      "Handling unexpected issues day-of?"
+    ],
+    "response": [
+      "Book key vendors (venue, caterer, photographer) 6-12 months out if possible!",
+      "DIY can save costs but can add stress—delegate tasks if you go that route."
+    , 
+      "A good coordinator can handle hiccups on the wedding day so you can enjoy."
+    ]
+  },
+  "category_334": {
+    "questions": [
+      "Differences between marketing and PR?",
+      "Handling brand reputation online?",
+      "Crisis communication steps?",
+      "Media outreach best practices?",
+      "Is PR more about relationships than ads?"
+    ],
+    "response": [
+      "PR focuses on maintaining a positive image and relationships with media/public, marketing often aims at driving sales.",
+      "Monitoring social channels and quick response is crucial in a crisis to minimize damage."
+    , 
+      "Building trust through consistent messaging is key in PR."
+    ]
+  },
+  "category_335": {
+    "questions": [
+      "Managing multiple languages as polyglot?",
+      "How to not mix them up?",
+      "Is language attrition real?",
+      "Scheduling practice across languages?",
+      "Apps for advanced learners?"
+    ],
+    "response": [
+      "Using a separate context or environment for each language helps keep them distinct!",
+      "Yes, if you stop using one language, you can lose fluency—review it regularly."
+    , 
+      "Clozemaster or advanced reading in original text can push you beyond basic vocab."
+    ]
+  },
+  "category_336": {
+    "questions": [
+      "High-altitude baking tips?",
+      "Adjusting recipes for mountains?",
+      "Why do cakes collapse at high altitude?",
+      "Flour or liquid changes needed?",
+      "Any special guidelines for bread rising?"
+    ],
+    "response": [
+      "Less air pressure affects rising—often reduce baking powder/sugar slightly, increase liquid!",
+      "Check for doneness earlier; things cook faster at altitude but can dry out if not careful."
+    , 
+      "Yeast breads rise quicker—punch down earlier to avoid overproofing."
+    ]
+  },
+  "category_337": {
+    "questions": [
+      "Any good fatherhood advice?",
+      "Balancing fatherhood and work?",
+      "Best ways to create a strong father-child bond?",
+      "Handling discipline as a dad?",
+      "Being supportive during teen years?"
+    ],
+    "response": [
+      "Consistency and open communication—take time to truly listen to your kids!",
+      "Quality time can be small daily interactions: reading bedtime stories or cooking together."
+    , 
+      "Teen years can be tricky; respect their independence but maintain supportive boundaries."
+    ]
+  },
+  "category_338": {
+    "questions": [
+      "Creating a successful YouTube channel from scratch?",
+      "Niche selection for new YouTubers?",
+      "Which equipment do I need to start?",
+      "SEO for YouTube videos?",
+      "Monetization requirements and tips?"
+    ],
+    "response": [
+      "Focus on a clear niche or theme—viewers like consistent content!",
+      "Basic gear: decent camera (or phone), mic, and simple lighting. Upgrade as you grow."
+    , 
+      "Use relevant keywords in title/description, aim for engaging thumbnails, and keep watch time high."
+    ]
+  },
+  "category_339": {
+    "questions": [
+      "Selecting a coding bootcamp?",
+      "Are they worth the money?",
+      "Online vs in-person bootcamps?",
+      "How to stand out to employers post-bootcamp?",
+      "Self-teaching vs. structured curriculum?"
+    ],
+    "response": [
+      "Choose a reputable bootcamp with proven outcomes, job support can be crucial!",
+      "Ensure you practice hands-on projects; portfolio matters a lot post-graduation."
+    , 
+      "Self-study can work but structured environments keep you accountable and guided."
+    ]
+  },
+  "category_340": {
+    "questions": [
+      "Comparing yoga vs Pilates?",
+      "Is Pilates better for core strength?",
+      "Common injuries or mistakes in Pilates?",
+      "Equipment needed for mat Pilates?",
+      "Should I combine both yoga and Pilates?"
+    ],
+    "response": [
+      "Pilates emphasizes core stability, while yoga is broader (mind-body, various poses). Both can complement each other!",
+      "Mat Pilates might only need a mat, while Reformer uses specialized equipment."
+    , 
+      "Avoid overarching your lower back—listen to your body to prevent strain."
+    ]
+  },
+  "category_341": {
+    "questions": [
+      "How to host a board game night?",
+      "Recommended party board games?",
+      "Easy board games for non-gamers?",
+      "Snacks or food ideas for game sessions?",
+      "Handling competitive players gracefully?"
+    ],
+    "response": [
+      "Pick a variety: quick party games (Codenames, Dixit) or deeper ones if group is up for it!",
+      "Finger foods or simple snacks keep players’ hands free for cards or pieces."
+    , 
+      "Set friendly rules for competition—sometimes a collaborative game (Pandemic) is simpler to keep it fun."
+    ]
+  },
+  "category_342": {
+    "questions": [
+      "Expanding creativity in daily life?",
+      "Journaling vs. brainstorming for new ideas?",
+      "Overcoming creative blocks?",
+      "Balance structure vs. free-flow creation?",
+      "Is reading essential for creativity?"
+    ],
+    "response": [
+      "Try quick daily doodles or writing prompts. Breaking routine can spark new perspectives!",
+      "Both reading and experiencing diverse art can feed your imagination."
+    , 
+      "Set constraints: ironically, limiting resources sometimes fosters more creativity."
+    ]
+  },
+  "category_343": {
+    "questions": [
+      "How to introduce new foods to picky eaters?",
+      "Techniques for toddler mealtime success?",
+      "Should I hide veggies or be transparent?",
+      "Reward system for trying new tastes?",
+      "Handling allergies or sensitivities?"
+    ],
+    "response": [
+      "Encourage them to explore textures and smells, not just taste. Make mealtime positive!",
+      "Hiding veggies can work short-term, but better to show them openly eventually."
+    , 
+      "Rewards can be small praises or sticker charts—avoid turning food into a big power struggle."
+    ]
+  },
+  "category_344": {
+    "questions": [
+      "Fundamentals of astrophysics?",
+      "Difference between astrophysics and astronomy?",
+      "Gravity’s role in cosmic formation?",
+      "Studying black holes basics?",
+      "How do we detect exoplanets?"
+    ],
+    "response": [
+      "Astrophysics applies physics laws to celestial objects; astronomy is broader observation-based!",
+      "Exoplanets often found via transit method (dimming star light) or radial velocity shifts."
+    , 
+      "Black holes bend spacetime extremely—detect them by their effect on surrounding matter."
+    ]
+  },
+  "category_345": {
+    "questions": [
+      "Cycling for fitness or commuting?",
+      "Road bike vs mountain bike for casual riders?",
+      "Clothing for comfortable cycling?",
+      "Avoiding knee pain while biking?",
+      "What’s the best time to ride?"
+    ],
+    "response": [
+      "For commuting, a hybrid or road bike can be efficient; mountain bikes handle rough trails!",
+      "Adjust your saddle height properly to avoid knee strain—slight bend at bottom of pedal stroke."
+    , 
+      "Early mornings often have lighter traffic, but personal schedules vary."
+    ]
+  },
+  "category_346": {
+    "questions": [
+      "Handling mild depression at home?",
+      "Natural remedies for mood improvement?",
+      "When to see a therapist?",
+      "Does exercise help depression symptoms?",
+      "Medication vs. counseling approach?"
+    ],
+    "response": [
+      "Light exercise, mindfulness, and social support can help mild cases. Seek professional advice if it persists!",
+      "Therapy can provide coping strategies; medication might be needed for moderate or severe symptoms."
+    , 
+      "Self-care practices like journaling, hobbies, and balanced sleep are supportive steps."
+    ]
+  },
+  "category_347": {
+    "questions": [
+      "Scuba diving basics?",
+      "Is certification mandatory?",
+      "Best beginner-friendly dive spots?",
+      "Gear needed: renting vs. buying?",
+      "Common safety tips underwater?"
+    ],
+    "response": [
+      "You need a scuba cert (PADI or NAUI) to dive unsupervised—safety first!",
+      "Renting gear is cheaper initially; once committed, owning ensures fit/comfort."
+    , 
+      "Never ascend too quickly—follow your dive computer or instructor to avoid decompression sickness."
+    ]
+  },
+  "category_348": {
+    "questions": [
+      "Coding best practices for small businesses?",
+      "Is WordPress or custom code better?",
+      "Maintaining a small business website easily?",
+      "Hiring freelancers vs. doing it in-house?",
+      "Security concerns for small sites?"
+    ],
+    "response": [
+      "WordPress is quick for non-techy owners, but custom code offers flexibility if you have dev resources!",
+      "Always keep themes/plugins updated—small sites can still be targeted by bots."
+    , 
+      "Freelancers can be cost-effective, but ensure you have an ongoing maintenance plan."
+    ]
+  },
+  "category_349": {
+    "questions": [
+      "Can I do VR gaming without a powerful PC?",
+      "Standalone VR headsets pros and cons?",
+      "Is motion sickness common in VR?",
+      "Is the metaverse just hype?",
+      "Best VR experiences for beginners?"
+    ],
+    "response": [
+      "Quest 2 is standalone, so no powerful PC needed—wired PC VR can deliver better graphics though!",
+      "Motion sickness varies; take breaks, start with seated experiences, and pick comfortable apps."
+    , 
+      "Metaverse is still developing—some see potential, others find it overhyped currently."
+    ]
+  },
+  "category_350": {
+    "questions": [
+      "Understanding child development stages?",
+      "When do kids start forming sentences?",
+      "Motor skills: how to help them crawl or walk?",
+      "Emotional regulation in preschoolers?",
+      "Is early reading beneficial or too pushy?"
+    ],
+    "response": [
+      "Every kid has their own pace—language typically explodes around age 2-3!",
+      "Encourage crawling/walking with safe spaces and interesting objects to reach."
+    , 
+      "Reading early is good if the child shows interest; no need to force advanced material though."
+    ]
+  },
+  "category_351": {
+    "questions": [
+      "What’s the difference between painting with oils and acrylics?",
+      "Which dries slower, oil or acrylic?",
+      "How to safely handle oil paint solvents?",
+      "Layering technique tips?",
+      "Budget-friendly brand recommendations?"
+    ],
+    "response": [
+      "Oil takes days to dry, allowing blending; acrylic can dry in minutes, better for quick layering!",
+      "Ventilation is key with oil solvents—some use odorless mineral spirits but caution is advised."
+    , 
+      "Student-grade brands cost less but can have lower pigment load; fine for learning."
+    ]
+  },
+  "category_352": {
+    "questions": [
+      "Which muscle groups do push-ups target?",
+      "Variations of push-ups for advanced trainers?",
+      "Are knee push-ups effective?",
+      "Push-ups vs bench press: pros and cons?",
+      "How to progress from 0 to 20 push-ups?"
+    ],
+    "response": [
+      "Push-ups mainly hit chest, triceps, shoulders, and core if done with proper form!",
+      "Knee push-ups help build initial strength before going full standard push-ups."
+    , 
+      "Progress by doing sets daily, focusing on clean form and slight incremental reps."
+    ]
+  },
+  "category_353": {
+    "questions": [
+      "Starting a freelance writing career?",
+      "Finding clients for content writing?",
+      "Is it better to niche down?",
+      "Pricing articles or blog posts?",
+      "Freelance writing vs. full-time job?"
+    ],
+    "response": [
+      "Content mills or job boards can be an entry point, but networking yields better pay!",
+      "Niching in a profitable area (tech, finance, etc.) can stand out from generalists."
+    , 
+      "Freelancing offers flexibility but requires self-discipline and consistent pitching."
+    ]
+  },
+  "category_354": {
+    "questions": [
+      "Cycling vs. running for cardio?",
+      "Which burns more calories overall?",
+      "Impact on joints: is running worse?",
+      "Should I combine both sports?",
+      "Is indoor cycling effective compared to outdoors?"
+    ],
+    "response": [
+      "Running typically burns more calories per session but can stress knees/ankles more!",
+      "Cycling is gentler on joints; many do both for variety and overall endurance."
+    , 
+      "Spin classes can replicate intense outdoor rides if you prefer indoor safety."
+    ]
+  },
+  "category_355": {
+    "questions": [
+      "What is an air fryer?",
+      "Does it really mimic deep frying?",
+      "Best foods to cook in an air fryer?",
+      "Cleaning and maintenance tips?",
+      "Any downsides to air frying?"
+    ],
+    "response": [
+      "An air fryer uses hot air circulation to crisp food with less oil than deep frying!",
+      "Fries, chicken wings, or veggies can come out crunchy with minimal grease."
+    , 
+      "Watch out for limited capacity if cooking for a large family."
+    ]
+  },
+  "category_356": {
+    "questions": [
+      "What are progressive web apps?",
+      "PWA vs. native mobile apps?",
+      "Offline capability in PWAs?",
+      "Is it simpler to develop a PWA?",
+      "Browser support for PWAs?"
+    ],
+    "response": [
+      "PWAs combine web tech with app-like features (offline use, push notifications).",
+      "They’re often easier to deploy/maintain than separate native apps for each OS."
+    , 
+      "Modern browsers support PWAs, though some advanced features might differ on iOS vs. Android."
+    ]
+  },
+  "category_357": {
+    "questions": [
+      "Intermittent fasting methods?",
+      "16:8 vs. 5:2 approach?",
+      "Is fasting healthy for everyone?",
+      "Fasting side effects to watch out for?",
+      "Combining fasting with workouts?"
+    ],
+    "response": [
+      "16:8 means fasting 16 hours, eating within an 8-hour window; 5:2 means 2 low-cal days weekly!",
+      "Not suitable for everyone—pregnant, certain medical conditions, or if it triggers disordered eating."
+    , 
+      "Some do cardio fasted in the morning, but pay attention to energy levels."
+    ]
+  },
+  "category_358": {
+    "questions": [
+      "Knitting vs crocheting vs tatting?",
+      "Which technique is easier to learn?",
+      "Popular yarn types for tatting?",
+      "Creating lace with tatting?",
+      "Is tatting a dying art?"
+    ],
+    "response": [
+      "Tatting uses a shuttle or needle to create delicate lace patterns—some find it more intricate than crochet!",
+      "Fine threads are typical for tatting, producing doilies or lace edges."
+    , 
+      "It’s niche but still loved by crafters who appreciate classic lacework."
+    ]
+  },
+  "category_359": {
+    "questions": [
+      "Essential items for camping trips?",
+      "Tent selection tips?",
+      "Avoiding bug issues outdoors?",
+      "Quick meal ideas while camping?",
+      "Backpacking vs car camping differences?"
+    ],
+    "response": [
+      "Tent, sleeping bag, water filter, and a reliable firestarter are basics!",
+      "Use insect repellent or netting—some locations are notorious for mosquitos."
+    , 
+      "Backpacking demands lighter gear and minimal luxuries; car camping allows more comfort items."
+    ]
+  },
+  "category_360": {
+    "questions": [
+      "Mid-century modern decor tips?",
+      "Iconic mid-century furniture pieces?",
+      "Color schemes popular in that style?",
+      "Any key designers from mid-century era?",
+      "Balancing vintage and contemporary items?"
+    ],
+    "response": [
+      "Look for clean lines, organic curves, and wood + bold color accents.",
+      "Eames, Saarinen, Nelson—famous names from that era!"
+    , 
+      "Mixing modern pieces with vintage flair can update the space without looking dated."
+    ]
+  },
+  "category_361": {
+    "questions": [
+      "Is journaling or therapy better for stress reduction?",
+      "Simple breathing exercises for anxiety?",
+      "Benefits of progressive muscle relaxation?",
+      "Apps for guided meditation or relaxation?",
+      "When to consider professional help?"
+    ],
+    "response": [
+      "Both journaling and therapy can complement each other—professional guidance often helps deeper issues.",
+      "Box breathing (4 seconds inhale, 4 hold, 4 exhale, 4 hold) can calm the mind."
+    , 
+      "Seek a counselor if stress significantly impacts daily life or relationships."
+    ]
+  },
+  "category_362": {
+    "questions": [
+      "Basic tips for crocheting amigurumi?",
+      "What is amigurumi exactly?",
+      "Best yarn for stuffed toys?",
+      "Magic ring technique importance?",
+      "Stuffing amigurumi properly?"
+    ],
+    "response": [
+      "Amigurumi is the Japanese art of crocheting small stuffed toys—often adorable animals or characters!",
+      "Use a tight stitch so stuffing won’t show; the magic ring ensures a neat, closed beginning."
+    , 
+      "Polyester fiberfill is common, though some prefer cotton or wool batting for a different feel."
+    ]
+  },
+  "category_363": {
+    "questions": [
+      "Setting up a simple drip coffee station at home?",
+      "Grinding beans vs. buying ground coffee?",
+      "Ratios for a good drip brew?",
+      "Cleaning the coffee maker regularly?",
+      "Dealing with coffee oil build-up?"
+    ],
+    "response": [
+      "A 1:15 or 1:16 coffee-to-water ratio is a common baseline for drip brewing!",
+      "Freshly grinding beans yields more aroma and flavor—burr grinders are best."
+    , 
+      "Clean monthly with a vinegar or specialized cleaner to prevent rancid oil buildup."
+    ]
+  },
+  "category_364": {
+    "questions": [
+      "Any advice on learning chess openings?",
+      "Is memorizing lines essential?",
+      "Tactics vs. strategy focus?",
+      "Best ways to improve midgame?",
+      "When to start endgame study?"
+    ],
+    "response": [
+      "Basic opening principles: control center, develop pieces, protect your king. Memorizing lines is optional at first!",
+      "Tactics training improves quick recognition of patterns and threats."
+    , 
+      "Endgames matter—learn key checkmating patterns and simplified positions early."
+    ]
+  },
+  "category_365": {
+    "questions": [
+      "What are macros in dieting?",
+      "Counting protein, carbs, and fat effectively?",
+      "Tools or apps for macro tracking?",
+      "Common mistakes in macro counting?",
+      "Balancing macros if I'm vegetarian?"
+    ],
+    "response": [
+      "Macros refer to proteins, carbs, fats—some diets revolve around hitting specific ratios daily!",
+      "MyFitnessPal or Cronometer can help log your meals and show macro breakdown."
+    , 
+      "Vegetarian sources of protein include tofu, beans, lentils—adjust carbs accordingly."
+    ]
+  },
+  "category_366": {
+    "questions": [
+      "Identifying the right supplements for gym progress?",
+      "Whey vs. casein protein difference?",
+      "Is creatine beneficial for muscle gains?",
+      "Any caution with pre-workout stimulants?",
+      "Post-workout recovery strategies?"
+    ],
+    "response": [
+      "Whey digests quickly—good post-workout; casein is slower, often taken before bed!",
+      "Creatine monohydrate is well-studied for strength improvement, generally safe when used correctly."
+    , 
+      "Check labels on pre-workouts; high caffeine can cause jitters or insomnia."
+    ]
+  },
+  "category_367": {
+    "questions": [
+      "Building a pc from scratch: key components?",
+      "Motherboard selection tips?",
+      "Should I get an SSD or HDD or both?",
+      "Importance of a good PSU?",
+      "Cable management basics?"
+    ],
+    "response": [
+      "At minimum, CPU, motherboard, RAM, GPU (if needed), storage, PSU, and a case!",
+      "An SSD drastically improves boot/load times. An HDD is cheaper for large storage."
+    , 
+      "Quality power supply is essential for stability—never skimp on it!"
+    ]
+  },
+  "category_368": {
+    "questions": [
+      "Deciding if therapy is right for me?",
+      "How to find a good therapist?",
+      "Online therapy vs in-person?",
+      "What is cognitive behavioral therapy?",
+      "Dealing with therapy stigma?"
+    ],
+    "response": [
+      "Therapy helps if you’re facing persistent emotional distress—finding a licensed professional is key.",
+      "CBT focuses on changing negative thought patterns and behaviors, widely used and evidence-based."
+    , 
+      "Online sessions can be convenient, but in-person might offer better nonverbal cues. Personal preference matters."
+    ]
+  },
+  "category_369": {
+    "questions": [
+      "How to start bullet journaling for mental health tracking?",
+      "Tracking moods daily?",
+      "Best symbols or color codes for journaling?",
+      "Inspiration for mental well-being spreads?",
+      "Setting realistic self-care goals?"
+    ],
+    "response": [
+      "Create a mood tracker page, color-coding emotions. Reflect at day’s end for patterns!",
+      "A habit tracker can incorporate meditation, gratitude, or journaling itself."
+    , 
+      "Keep goals small—like ‘5 minutes of reading’ or ‘1 short walk daily’ to maintain consistency."
+    ]
+  },
+  "category_370": {
+    "questions": [
+      "Crafting original music compositions?",
+      "Inspiration sources for songwriting?",
+      "Basics of melody writing?",
+      "Do I need music theory for composition?",
+      "Overcoming writer’s block in songwriting?"
+    ],
+    "response": [
+      "Start with a simple chord progression or a short melodic hook, then build from there!",
+      "Music theory can speed up understanding, but ear-based composing also works for some."
+    , 
+      "Explore new genres or jam sessions to trigger fresh ideas."
+    ]
+  },
+  "category_371": {
+    "questions": [
+      "What is a VR treadmill setup?",
+      "Cost and space needed?",
+      "Does it reduce motion sickness?",
+      "Compatibility with major VR headsets?",
+      "Main manufacturers of VR treadmills?"
+    ],
+    "response": [
+      "Omni-directional treadmills let you physically walk in VR—large and pricey though!",
+      "They can reduce motion sickness by aligning physical movement with in-game locomotion."
+    , 
+      "Virtuix Omni is a known brand, but new competitors appear as VR grows."
+    ]
+  },
+  "category_372": {
+    "questions": [
+      "Mind mapping techniques?",
+      "Software vs pen-and-paper mind maps?",
+      "Using mind maps for studying effectively?",
+      "Organizing creative ideas visually?",
+      "When is a linear outline better?"
+    ],
+    "response": [
+      "Mind mapping uses a central concept branching out into subtopics—great for brainstorming or summarizing complex info!",
+      "Digital tools like XMind or MindMeister can handle rearranging easily; pen-and-paper is simple and spontaneous."
+    , 
+      "Linear outlines can be cleaner if you need a strictly hierarchical structure."
+    ]
+  },
+  "category_373": {
+    "questions": [
+      "Building an NFT collection?",
+      "Which blockchain for NFTs (Ethereum vs others)?",
+      "How do I mint an NFT?",
+      "NFT marketplaces to consider?",
+      "Environmental concerns around NFTs?"
+    ],
+    "response": [
+      "Ethereum is the biggest NFT ecosystem, but alternatives like Polygon or Solana offer lower fees!",
+      "Minting typically requires a crypto wallet; platforms like OpenSea or Rarible let you list them."
+    , 
+      "Proof-of-stake chains reduce environmental impact vs older proof-of-work methods."
+    ]
+  },
+  "category_374": {
+    "questions": [
+      "Are meal replacements shakes healthy?",
+      "Choosing the right brand or formula?",
+      "Concerns about artificial sweeteners?",
+      "Weight management with shakes?",
+      "How to incorporate real foods as well?"
+    ],
+    "response": [
+      "Meal shakes can fill nutritional gaps but read labels for sugar and additives!",
+      "Balancing shakes with actual meals is ideal—fresh produce & proteins can’t be fully replaced."
+    , 
+      "Consult a nutritionist if relying heavily on shakes for daily nutrition."
+    ]
+  },
+  "category_375": {
+    "questions": [
+      "Difference between crocheting a scarf and a blanket?",
+      "Size guidelines for crocheted blankets?",
+      "Managing yarn tension across large projects?",
+      "Color changes in crocheting large items?",
+      "Adding borders or edges to crocheted pieces?"
+    ],
+    "response": [
+      "A scarf is simpler and narrower; blankets require consistent stitches over bigger area—gauge matters more!",
+      "Plan color changes in advance to avoid messy yarn tangles or abrupt transitions."
+    , 
+      "A neat border can hide uneven edges—simple single crochet around or a decorative stitch."
+    ]
+  },
+  "category_376": {
+    "questions": [
+      "How to choose a personal trainer?",
+      "Certifications to look for?",
+      "Online training vs. in-gym trainer?",
+      "Red flags in personal training?",
+      "How to measure progress effectively?"
+    ],
+    "response": [
+      "Look for recognized certs (NASM, ACE, ACSM) and check client reviews or specialties!",
+      "If going remote, ensure good communication (video calls, form checks, clear programming)."
+    , 
+      "Progress can be measured by body composition, strength gains, or improved endurance."
+    ]
+  },
+  "category_377": {
+    "questions": [
+      "What is DNS in networking?",
+      "Why is DNS important for websites?",
+      "DNS vs IP address usage?",
+      "DNS records: A, CNAME, MX meaning?",
+      "Should I use custom DNS providers?"
+    ],
+    "response": [
+      "DNS (Domain Name System) translates domain names to IP addresses—like an internet phonebook!",
+      "A record points domain to an IP, CNAME redirects one domain to another, MX handles email servers."
+    , 
+      "Custom DNS (like Cloudflare) can add faster resolution, security, and advanced features."
+    ]
+  },
+  "category_378": {
+    "questions": [
+      "Printing photos at home vs. a lab?",
+      "Is a photo printer worth it?",
+      "Best paper types for photography?",
+      "Calibrating printer colors?",
+      "Inkjet vs laser for pictures?"
+    ],
+    "response": [
+      "Inkjet is better for high-quality color photo prints; laser is more business doc oriented!",
+      "A good paper (glossy, matte, luster) can drastically affect final image quality."
+    , 
+      "Home printing is convenient for small volumes; labs can be cost-effective for large batches."
+    ]
+  },
+  "category_379": {
+    "questions": [
+      "How to host a successful potluck?",
+      "Coordinating dishes among guests?",
+      "Ensuring dietary restrictions are met?",
+      "Decor and setting for casual vibe?",
+      "Dealing with leftover chaos?"
+    ],
+    "response": [
+      "Use a shared signup list so no one duplicates the same dish!",
+      "Label items with possible allergens—guests appreciate clarity."
+    , 
+      "Have to-go containers so people can take leftovers, minimizing food waste."
+    ]
+  },
+  "category_380": {
+    "questions": [
+      "Fashion photography basics?",
+      "Choosing locations for fashion shoots?",
+      "Working with models or stylists?",
+      "Lighting setups for editorial vibes?",
+      "Post-processing tips for fashion images?"
+    ],
+    "response": [
+      "Scout interesting backgrounds or use clean studio sets—both can emphasize the outfit!",
+      "Good communication with the model helps capture natural poses and highlight the clothing."
+    , 
+      "Editing often includes skin retouching and color grading for a polished, magazine-ready look."
+    ]
+  },
+"default": {
+  "questions": [
+    "Fashion photography basics?",
+    "Choosing locations for fashion shoots?",
+    "Working with models or stylists?",
+    "Lighting setups for editorial vibes?",
+    "Post-processing tips for fashion images?"
+  ],
+  "response": [
+    "Sorry, I don't understand.",
+    "I don't think I understand."
+  , 
+    "Please repeat, I have trouble understanding you."
+  ]
+}
+}
+
+
+
+
+
+

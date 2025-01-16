@@ -1,0 +1,580 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Admin Dashboard</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    /* ---------------------------
+       Global & Reset
+    ---------------------------- */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f1f3f6;
+      color: #333;
+      line-height: 1.6;
+      padding-bottom: 50px;
+    }
+    /* ---------------------------
+       Header & Search Bar
+    ---------------------------- */
+    header {
+      background-color: #34495e;
+      padding: 20px;
+      color: white;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    header h1 {
+      font-size: 1.8rem;
+      margin-left: 10px;
+    }
+    .search-bar {
+      position: relative;
+      width: 300px;
+    }
+    .search-bar input {
+      width: 100%;
+      padding: 10px;
+      font-size: 14px;
+      border: none;
+      border-radius: 4px;
+      outline: none;
+    }
+    .search-bar button {
+      position: absolute;
+      right: 0;
+      top: 0;
+      bottom: 0;
+      background-color: #2980b9;
+      color: white;
+      border: none;
+      border-radius: 0 4px 4px 0;
+      cursor: pointer;
+      padding: 0 15px;
+    }
+    /* ---------------------------
+       Container
+    ---------------------------- */
+    .container {
+      max-width: 1200px;
+      margin: 20px auto;
+      background-color: #fff;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      padding: 20px;
+    }
+    /* ---------------------------
+       User List
+    ---------------------------- */
+    .user-list {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      margin-top: 20px;
+    }
+    .user-item {
+      display: flex;
+      justify-content: space-between;
+      background-color: #f9f9f9;
+      padding: 15px;
+      border-radius: 6px;
+      align-items: center;
+      border: 1px solid #ddd;
+    }
+    .user-details {
+      display: flex;
+      flex-direction: column;
+    }
+    .user-details p {
+      font-size: 14px;
+      color: #555;
+    }
+    .user-actions {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .view-btn {
+      padding: 8px 16px;
+      background-color: #3498db;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 0.9rem;
+    }
+    .view-btn:hover {
+      background-color: #1c75aa;
+    }
+    /* ---------------------------
+       User Control Panel
+    ---------------------------- */
+    #userControlPanel {
+      display: none; /* Hidden by default */
+      margin-top: 30px;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      background-color: #fdfdfd;
+    }
+    #userControlPanel h2 {
+      margin-bottom: 10px;
+      font-size: 1.4rem;
+      color: #333;
+    }
+    .userInfoRow {
+      display: flex;
+      justify-content: space-between;
+      margin: 10px 0;
+    }
+    .userInfoRow p {
+      font-size: 14px;
+      color: #555;
+    }
+    /* ---------------------------
+       Control Buttons
+    ---------------------------- */
+    .control-buttons {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 20px;
+    }
+    .control-buttons button {
+      padding: 10px 16px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 0.9rem;
+      color: #fff;
+    }
+    .warn-btn { background-color: #f39c12; }
+    .warn-btn:hover { background-color: #cf850f; }
+    .ban-btn { background-color: #e74c3c; }
+    .ban-btn:hover { background-color: #c0392b; }
+    .recover-btn { background-color: #27ae60; }
+    .recover-btn:hover { background-color: #1f8c4d; }
+    .terminate-btn { background-color: #8e44ad; }
+    .terminate-btn:hover { background-color: #6a3185; }
+    .change-pass-btn { background-color: #2980b9; }
+    .change-pass-btn:hover { background-color: #20608d; }
+    .voicechat-btn { background-color: #16a085; }
+    .voicechat-btn:hover { background-color: #12826a; }
+    .disabled-option {
+      background-color: #bdc3c7 !important;
+      cursor: not-allowed;
+    }
+    /* ---------------------------
+       Modal Overlays
+    ---------------------------- */
+    .overlay {
+      position: fixed;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      background-color: rgba(0,0,0,0.5);
+      display: none;
+      justify-content: center;
+      align-items: center;
+      z-index: 999;
+    }
+    .modal {
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      width: 400px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    }
+    .modal h3 { margin-bottom: 15px; }
+    .modal label {
+      display: block;
+      margin: 10px 0 5px;
+      font-size: 0.9rem;
+      color: #333;
+    }
+    .modal input,
+    .modal textarea {
+      width: 100%;
+      padding: 8px;
+      border-radius: 4px;
+      border: 1px solid #ddd;
+      font-size: 0.95rem;
+    }
+    .modal button {
+      margin-top: 15px;
+      padding: 10px 16px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      color: #fff;
+      background-color: #2c3e50;
+    }
+    .modal button:hover {
+      background-color: #1f2c38;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Admin Dashboard</h1>
+  <div class="search-bar">
+    <input type="text" id="searchInput" placeholder="Search users...">
+    <button id="searchBtn">Search</button>
+  </div>
+</header>
+
+<div class="container">
+  <!-- User List -->
+  <div class="user-list" id="userList">
+    <!-- Real users from localStorage will be loaded here -->
+  </div>
+
+  <!-- User Control Panel -->
+  <div id="userControlPanel">
+    <h2>User Control Panel</h2>
+    <div class="userInfoRow">
+      <p><strong>Username:</strong> <span id="panelUsername"></span></p>
+      <p><strong>IP Address:</strong> <span id="panelIP"></span></p>
+    </div>
+    <div class="userInfoRow">
+      <p><strong>Join Date:</strong> <span id="panelJoinDate"></span></p>
+      <p><strong>Last Online:</strong> <span id="panelLastOnline"></span></p>
+    </div>
+    <div class="userInfoRow">
+      <p>
+        <strong>Verify ID (Uncensored Mode):</strong>
+        <button class="disabled-option" disabled>Disabled</button>
+      </p>
+      <p>
+        <strong>Voice Chat (Beta):</strong>
+        <button class="voicechat-btn disabled-option" disabled>Enable Voice Chat</button>
+      </p>
+    </div>
+    <div class="control-buttons">
+      <button class="warn-btn" id="warnBtn">Warn</button>
+      <button class="ban-btn" id="banBtn">Ban</button>
+      <button class="recover-btn" id="recoverBtn">Recover Account</button>
+      <button class="terminate-btn" id="terminateBtn">Terminate Account</button>
+      <button class="change-pass-btn" id="changePassBtn">Change Password</button>
+    </div>
+  </div>
+</div>
+
+<!-- Ban/Warning Modal -->
+<div class="overlay" id="banModal">
+  <div class="modal">
+    <h3 id="banModalTitle">Ban User</h3>
+    <label for="banDuration">Duration (hours):</label>
+    <input type="number" id="banDuration" placeholder="Ex: 24" min="1">
+    <label for="banReason">Reason:</label>
+    <textarea id="banReason" rows="3" placeholder="Describe the reason..."></textarea>
+    <button id="banConfirmBtn">Confirm</button>
+  </div>
+</div>
+
+<!-- Change Password Modal -->
+<div class="overlay" id="changePassOverlay">
+  <div class="modal" id="changePassModal">
+    <h3>Change Password for <span id="changePassUsername"></span></h3>
+    <label for="newPassword">New Password:</label>
+    <input type="password" id="newPassword" placeholder="Enter new password">
+    <label for="confirmPassword">Confirm Password:</label>
+    <input type="password" id="confirmPassword" placeholder="Re-enter new password">
+    <button id="changePassConfirmBtn">Change Password</button>
+  </div>
+</div>
+
+<script>
+  // ---------------------------
+  // Utility Functions
+  // ---------------------------
+
+  // Retrieve users from localStorage
+  const getUsers = () => JSON.parse(localStorage.getItem('users')) || [];
+
+  // Save users to localStorage
+  const saveUsers = (users) => localStorage.setItem('users', JSON.stringify(users));
+
+  // Update lastOnline for a user
+  const updateLastOnline = (username) => {
+    const users = getUsers();
+    const userIndex = users.findIndex(u => u.username === username);
+    if (userIndex !== -1) {
+      users[userIndex].lastOnline = new Date().toLocaleString();
+      saveUsers(users);
+    }
+  };
+
+  // ---------------------------
+  // Load Users and Display
+  // ---------------------------
+
+  function loadUsers() {
+    const users = getUsers();
+    displayUserList(users);
+  }
+
+  function displayUserList(users) {
+    const userListElement = document.getElementById('userList');
+    userListElement.innerHTML = "";
+
+    if (users.length === 0) {
+      const noUsersDiv = document.createElement('div');
+      noUsersDiv.textContent = "No users found.";
+      noUsersDiv.style.padding = "10px";
+      userListElement.appendChild(noUsersDiv);
+      return;
+    }
+
+    users.forEach(user => {
+      const userItem = document.createElement('div');
+      userItem.classList.add('user-item');
+
+      const detailsDiv = document.createElement('div');
+      detailsDiv.classList.add('user-details');
+      detailsDiv.innerHTML = `
+        <p><strong>${user.username}</strong></p>
+        <p>Status: ${user.status || 'active'}</p>
+      `;
+
+      const actionsDiv = document.createElement('div');
+      actionsDiv.classList.add('user-actions');
+
+      const viewBtn = document.createElement('button');
+      viewBtn.classList.add('view-btn');
+      viewBtn.innerText = 'View';
+      viewBtn.addEventListener('click', () => {
+        showUserControlPanel(user);
+      });
+
+      actionsDiv.appendChild(viewBtn);
+      userItem.appendChild(detailsDiv);
+      userItem.appendChild(actionsDiv);
+      userListElement.appendChild(userItem);
+    });
+  }
+
+  // ---------------------------
+  // Search Functionality
+  // ---------------------------
+
+  document.getElementById('searchBtn').addEventListener('click', () => {
+    const query = document.getElementById('searchInput').value.trim().toLowerCase();
+    const users = getUsers();
+    const filteredUsers = users.filter(u => u.username.toLowerCase().includes(query));
+    displayUserList(filteredUsers);
+  });
+
+  // ---------------------------
+  // User Control Panel
+  // ---------------------------
+
+  let currentUser = null;
+  let currentAction = null;
+
+  function showUserControlPanel(user) {
+    currentUser = user;
+    document.getElementById('userControlPanel').style.display = 'block';
+    document.getElementById('panelUsername').textContent = user.username;
+    document.getElementById('panelIP').textContent = user.ip || "N/A";
+    document.getElementById('panelJoinDate').textContent = user.joinDate || "Unknown";
+    document.getElementById('panelLastOnline').textContent = user.lastOnline || "Unknown";
+  }
+
+  // ---------------------------
+  // Admin Actions
+  // ---------------------------
+
+  // Warn Button
+  document.getElementById('warnBtn').addEventListener('click', () => {
+    if (!currentUser) return;
+    currentAction = "warn";
+    document.getElementById('banModalTitle').textContent = "Warn User";
+    document.getElementById('banDuration').value = ""; // Optional: Warnings might have an optional duration
+    document.getElementById('banReason').value = "";
+    document.getElementById('banModal').style.display = 'flex';
+  });
+
+  // Ban Button
+  document.getElementById('banBtn').addEventListener('click', () => {
+    if (!currentUser) return;
+    currentAction = "ban";
+    document.getElementById('banModalTitle').textContent = "Ban User";
+    document.getElementById('banDuration').value = "";
+    document.getElementById('banReason').value = "";
+    document.getElementById('banModal').style.display = 'flex';
+  });
+
+  // Terminate Button
+  document.getElementById('terminateBtn').addEventListener('click', () => {
+    if (!currentUser) return;
+    currentAction = "terminate";
+    document.getElementById('banModalTitle').textContent = "Terminate (Permaban)";
+    document.getElementById('banDuration').value = ""; // Permaban ignores duration
+    document.getElementById('banReason').value = "";
+    document.getElementById('banModal').style.display = 'flex';
+  });
+
+  // Recover Button
+  document.getElementById('recoverBtn').addEventListener('click', () => {
+    if (!currentUser) return;
+    const users = getUsers();
+    const userIndex = users.findIndex(u => u.username === currentUser.username);
+    if (userIndex !== -1) {
+      users[userIndex].status = 'active';
+      users[userIndex].ban = null;
+      saveUsers(users);
+      alert(`Account for ${currentUser.username} has been recovered successfully!`);
+      loadUsers();
+      document.getElementById('userControlPanel').style.display = 'none';
+    }
+  });
+
+  // Change Password Button
+  document.getElementById('changePassBtn').addEventListener('click', () => {
+    if (!currentUser) return;
+    document.getElementById('changePassUsername').textContent = currentUser.username;
+    document.getElementById('newPassword').value = "";
+    document.getElementById('confirmPassword').value = "";
+    document.getElementById('changePassOverlay').style.display = 'flex';
+  });
+
+  // ---------------------------
+  // Ban/Warning Confirmation
+  // ---------------------------
+
+  document.getElementById('banConfirmBtn').addEventListener('click', () => {
+    if (!currentUser) return;
+    const duration = document.getElementById('banDuration').value || "N/A";
+    const reason = document.getElementById('banReason').value || "No reason provided";
+
+    const users = getUsers();
+    const userIndex = users.findIndex(u => u.username === currentUser.username);
+    if (userIndex === -1) {
+      alert("User not found.");
+      return;
+    }
+
+    if (currentAction === "warn") {
+      // Add a warning entry (can be expanded as needed)
+      if (!users[userIndex].warnings) {
+        users[userIndex].warnings = [];
+      }
+      users[userIndex].warnings.push({
+        reason: reason,
+        date: new Date().toLocaleString()
+      });
+      saveUsers(users);
+      alert(`User ${currentUser.username} has been WARNED.\nReason: ${reason}`);
+    } else if (currentAction === "ban") {
+      const banExpiry = duration !== "N/A" ? Date.now() + duration * 60 * 60 * 1000 : null;
+      users[userIndex].status = 'banned';
+      users[userIndex].ban = {
+        reason: reason,
+        expiry: banExpiry
+      };
+      saveUsers(users);
+      alert(`User ${currentUser.username} has been BANNED for ${duration !== "N/A" ? duration + " hours" : "an indefinite period"}.\nReason: ${reason}`);
+    } else if (currentAction === "terminate") {
+      users[userIndex].status = 'terminated'; // Using 'terminated' to indicate permanent ban
+      users[userIndex].ban = {
+        reason: reason,
+        expiry: null // null indicates permanent
+      };
+      saveUsers(users);
+      alert(`User ${currentUser.username} has been TERMINATED (Permanently Banned).\nReason: ${reason}`);
+    }
+
+    loadUsers();
+    document.getElementById('userControlPanel').style.display = 'none';
+    document.getElementById('banModal').style.display = 'none';
+  });
+
+  // ---------------------------
+  // Change Password Confirmation
+  // ---------------------------
+
+  document.getElementById('changePassConfirmBtn').addEventListener('click', () => {
+    const newPass = document.getElementById('newPassword').value.trim();
+    const confirmPass = document.getElementById('confirmPassword').value.trim();
+
+    if (!newPass || !confirmPass) {
+      alert("Please fill out both password fields.");
+      return;
+    }
+    if (newPass !== confirmPass) {
+      alert("Passwords do not match!");
+      return;
+    }
+
+    const users = getUsers();
+    const userIndex = users.findIndex(u => u.username === currentUser.username);
+    if (userIndex === -1) {
+      alert("User not found.");
+      return;
+    }
+
+    users[userIndex].password = newPass;
+    saveUsers(users);
+    alert(`Password for ${currentUser.username} has been changed successfully!`);
+    document.getElementById('changePassOverlay').style.display = 'none';
+  });
+
+  // ---------------------------
+  // Modal Hide When Clicking Outside
+  // ---------------------------
+
+  window.addEventListener('click', (e) => {
+    if (e.target === document.getElementById('banModal')) {
+      document.getElementById('banModal').style.display = 'none';
+    }
+    if (e.target === document.getElementById('changePassOverlay')) {
+      document.getElementById('changePassOverlay').style.display = 'none';
+    }
+  });
+
+  // ---------------------------
+  // Optional: Swearword Detection
+  // ---------------------------
+  // Note: Implementing swearword detection on the client-side is not secure.
+  // It's recommended to handle this on the server-side for reliable enforcement.
+  const swearWords = ["fuck", "shit", "bitch", "cunt", "slut"];
+
+  function autoDetectSwearing(message) {
+    const words = message.toLowerCase().split(/\s+/);
+    if (words.some(w => swearWords.includes(w))) {
+      alert(`Auto-ban triggered: ${currentUser ? currentUser.username : "User"} has been banned for 24 hours due to inappropriate language.`);
+      const users = getUsers();
+      const userIndex = users.findIndex(u => u.username === currentUser.username);
+      if (userIndex !== -1) {
+        users[userIndex].status = 'banned';
+        users[userIndex].ban = {
+          reason: "Inappropriate language",
+          expiry: Date.now() + 24 * 60 * 60 * 1000 // 24 hours
+        };
+        saveUsers(users);
+        loadUsers();
+        document.getElementById('userControlPanel').style.display = 'none';
+      }
+    }
+  }
+
+  // ---------------------------
+  // Initialization
+  // ---------------------------
+
+  window.addEventListener('DOMContentLoaded', () => {
+    loadUsers();
+  });
+
+</script>
+
+</body>
+</html>
